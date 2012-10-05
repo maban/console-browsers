@@ -1,0 +1,162 @@
+/* @group Base */
+
+	p {
+		clear: none;
+		}
+	
+	.entry-content aside {
+		position: absolute;
+		left: 0%;
+		width: 11%;
+		font-size: 0.8em;
+		color: white;
+		line-height: 1.2em;
+		margin: -0.7em 0 0 0;
+		background-color: #666;
+		background-color: rgba(0, 0, 0, 0.4);
+		text-align: right;
+		padding-right: 2.5%;
+		padding-left: 1%;
+		padding-top: 1em;
+		padding-bottom: 1em;
+		}
+	
+	.entry-content aside p:last-child {
+		margin-bottom: 0;
+		}
+	
+	.entry-content aside a:link,
+	.entry-content aside a:visited,
+	.entry-content aside a:hover,
+	.entry-content aside a:focus,
+	.entry-content aside a:active {
+		color: #fff;
+		}
+
+/* @end */
+
+/* @group entry-content */
+	
+	.entry-content {
+		width: 42%;
+		margin-left: 13.25%;
+		float: left;
+		margin-top: 2em;
+		}
+
+	.entry-content .pull {
+		float: left;
+		margin-left: -6%;
+		max-width: 50%;
+		margin-right: 4%;
+		clear: left;
+		}
+
+	.entry-content .push {
+		float: right;
+		margin-right: -6%;
+		max-width: 50%;
+		margin-left: 4%;
+		clear: right;
+		}
+	
+	.supplementary {
+		width: 28%;
+		margin-right: 4%;
+		float: right;
+		margin-top: 2em;
+		}
+
+/* @end */
+
+/* @group Skip link */
+
+	.skip {
+		position: absolute;
+		right: 6%;
+		bottom: 0;
+		
+		}
+	
+	.skip a {
+		text-align: right;
+		padding: 0.5em 1em;
+		width: auto;
+		margin: auto;
+		opacity: 0.5;
+		}
+	
+	.skip a:hover {
+		opacity: 0.9;
+		}
+
+/* @end */
+
+/* @group nav-primary */
+	
+	.nav-primary .link li:first-of-type {
+		width: 36%;
+		clear: both;
+		}
+	
+	.nav-primary .link li:last-of-type {
+		width: 24%;
+		}
+	
+	.nav-primary .link-more {
+		top: 40%;
+		}
+	
+	.nav-primary .link-section {
+		color: white;
+		display: block;
+		
+		overflow: hidden;
+		margin: 0 auto;
+		font-size: 0.8em;
+		}
+	
+	.nav-primary .link-section:hover {
+		opacity: 1;
+		}
+	
+	.nav-primary li {
+		width: 33%;
+		}
+	
+/* @end */
+	
+/* @group Themes */
+	
+	.section-home .nav-primary .post {
+		margin-bottom: -9999px;
+		padding: 0em 0 9999px;
+		}
+	
+	.section-home .link {
+		overflow: hidden;
+		float: left;
+		}
+	
+	.section-home .link-section {
+		float: left;
+		}
+	
+/* @end */
+
+@media screen and (min-width:1200px) {
+
+	body {
+		font-size: 1.2em;
+		}
+
+}
+
+
+@media screen and (min-width:1800px) {
+
+	body {
+		font-size: 1.3em;
+		}
+	
+}

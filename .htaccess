@@ -1,0 +1,22 @@
+Options +FollowSymLinks
+RewriteEngine On
+RewriteRule ^([0-9]+)/?$ post.php?s=$1 [NC,L]
+
+ErrorDocument 404 /404.php
+
+# secure htaccess file
+<Files .htaccess>
+ order allow,deny
+ deny from all
+</Files>
+
+# basic spell-checking
+<IfModule mod_speling.c>
+ CheckSpelling On
+</IfModule>
+
+<ifModule mod_php5.c>
+php_value zlib.output_compression 16386
+</ifModule>
+
+AddHandler php5-script .php
