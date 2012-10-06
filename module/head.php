@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>Console browsers</title>	
+	<title>Game Console Browsers</title>	
 	<meta name="description" content="Anna Debenham, freelance front-end developer based in Brighton" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<base href="<?php echo "http://".$_SERVER['HTTP_HOST']; ?>/console-browsers/" />
