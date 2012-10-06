@@ -5,8 +5,7 @@
 	<title>Console browsers</title>	
 	<meta name="description" content="Anna Debenham, freelance front-end developer based in Brighton" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<base href="<?php echo "http://".$_SERVER['HTTP_HOST']; ?>" />
-	<link rel="alternate" type="application/rss+xml" href="rss.php" title="RSS" />
+	<base href="<?php echo "http://".$_SERVER['HTTP_HOST']; ?>/console-browsers/" />
 	<link rel="stylesheet" type="text/css" media="screen" href="style/base.css?201210052354" />
 	<link rel="stylesheet" type="text/css" media="print" href="style/print.css?201210052354" />
 	<link rel="stylesheet" type="text/css" media="screen and (min-width:800px)" href="style/layout.css?201210052354" />
