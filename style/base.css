@@ -793,11 +793,19 @@ nav li {
 		}
 		
 	.nav-primary {
-		padding: 1em 4%;
+		padding: 1em 0;
 		float: left;
-		width: 92%;
+		width: 100%;
 		margin-top: 1em;
 		}
+	
+	.nav-primary ul {
+		clear: both;
+	}
+	
+	.nav-primary h2 {
+		clear: both;
+	}
 	
 	.nav-primary img {
 		margin: 0 auto;
@@ -810,6 +818,28 @@ nav li {
 		}
 	
 /* @end */
+
+.nav-secondary,
+.nav-tertiary {
+	padding: 1em 3%;
+	background-color: #888;
+	clear: both;
+	color: #fff;
+}
+
+.nav-tertiary {
+	background-color: #666;
+}
+
+.nav-secondary a,
+.nav-tertiary a {
+	color: #fff;
+}
+
+.nav-secondary ul,
+.nav-tertiary ul {
+	padding-left: 1em;
+}
 	
 	/* @group Main footer */
 	
@@ -819,12 +849,12 @@ nav li {
 		padding-bottom: 1em;
 		padding-left: 3%;
 		padding-right: 3%;
-		background-color: #555;
+		background-color: #444;
 		clear: both;
 		color: #fff;
 		}
 	
-	.footer-main p {
+	.footer-main p:last-child {
 		margin-bottom: 0;
 		}
 	
@@ -854,11 +884,18 @@ nav li {
 
 /* @end */
 
+.warning {
+	background-color: #ee9;
+	font-size: 0.9em;
+	padding: 0.8em 3% 0.5em;
+	color: #333;
+}
+
+.warning p:last-child {
+	margin-bottom: 0;
+}
+
 /* @group Themes */
-	
-	.section-home {
-		background-color: #fff;
-	}
 	
 	.section-home header {
 		border-bottom: 9px solid #444;
@@ -867,6 +904,16 @@ nav li {
 	.section-error {
 			background-color: #00C3E6;
 			}
+		
+	.section-home .entry-content {
+		width: 89%;
+		margin-left: 3%;
+		
+	}
+	
+	.section-home .content {
+		overflow: hidden;
+	}
 
 /* @end */
 

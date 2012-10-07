@@ -75,8 +75,6 @@
 		
 	<div class="supplementary">
 		
-		<p class="generation">7th generation</p>
-		
 		<img src="../image/ps3-controller.png" alt="Diagram of the PS3 controller." />
 		
 		<p class="browser browser-webkit">Identifies itself as Safari, uses a Webkit-based version of Netfront.</p>

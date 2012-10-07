@@ -125,6 +125,18 @@
 		}
 	
 /* @end */
+
+.nav-secondary,
+.nav-tertiary {
+	overflow: hidden;
+}
+
+.nav-secondary .links,
+.nav-tertiary .links {
+	width: 44%;
+	float: left;
+	padding: 0 3%;
+}
 	
 /* @group Themes */
 	

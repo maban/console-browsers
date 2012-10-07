@@ -39,7 +39,6 @@
 	</div><!-- .entry-content -->
 		
 		<div class="supplementary">
-		<p class="generation">8th generation</p>
 		
 		<img src="../image/psvita-controller.png" alt="diagram of the controls on the PS Vita" />		
 		

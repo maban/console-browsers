@@ -64,8 +64,6 @@
 	</div><!-- .entry-content -->
 	
 	<div class="supplementary">
-	
-		<p class="generation">7th generation</p>
 		
 		<img src="../image/wii-controller.png" alt="diagram of the Wii controller"/>
 		

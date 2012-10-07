@@ -54,8 +54,6 @@
 	
 	<div class="supplementary">
 		
-		<p class="generation">7th generation</p>
-		
 		<img src="../image/dsi-controller.png" alt="Diagram of the DSi" />
 		
 		<p class="browser browser-opera">Runs an Opera browser.</p>

@@ -48,8 +48,6 @@
 	
 	<div class="supplementary">
 		
-		<p class="generation">8th generation</p>
-		
 		<img src="../image/3dsxl-controller.png" alt="diagram of the 3DS XL controller" />
 		
 		<p class="browser browser-webkit">Identifies itself as Mozilla 5.0, but is actually a Webkit version of NetFront.</p>

@@ -1,7 +1,6 @@
 <footer class="footer-main">
 	<div class="container">
-		<p>I can't guarantee the accuracy of the content on this site. Unfortunately some of the tests I run give false results, so take the data with a pinch of salt and test things yourself if you can.</p>
-		<p><small>This content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.0/uk/">Creative Commons Attribution-NonCommercial-ShareAlike 2.0 UK: England & Wales License</a>. Please help me build upon it and make it better.</small></p>
+		<p><small>This content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">Creative Commons Attribution-ShareAlike 3.0 Unported License.</a>. <a href="https://github.com/maban/console-browsers">Please help me build upon it and make it better</a>.</small></p>
 		<p><small>The <a href="">EU cookie law</a> requires me to mention that this site uses Google Analytics which uses cookies. You can still use the site with cookies disabled though.</small></p>
 	</div>
 </footer>
