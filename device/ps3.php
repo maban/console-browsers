@@ -25,11 +25,12 @@
 		
 		<aside><p>Source: <a href="http://www.quirksmode.org/m/">Quirksmode</a></p></aside>	
 		
+		<p>This is just what the browser reported back to me. I need to verify these.</p>
+		
 		<ul>
 			<li>Cookies Enabled</li>
 			<li>Canvas support</li>
 			<li>No <code>&lt;video&gt;</code> or <code>&lt;audio&gt;</code> support</audio></li>
-			<li>Only <code>&lt;wbr&gt;</code> html5 element supported</li>
 			<li>Fully supported input types: search, tel, checkbox</li>
 			<li>No drag + drop or spellcheck</li>
 			<li>No session history</li>
@@ -57,12 +58,12 @@
 			<a href="../image/diagram-ps3-controller.png">
 				<img src="../image/diagram-ps3-controller.png" alt="Diagram of the PS3 controller buttons." />
 				<figcaption>
-					<p>Click for big version</p>
+					<p>See big version</p>
 				</figcaption>
 			</a>
 		</figure>
 		
-		<h3>Other inputs</h3>
+		<h3>Other input devices</h3>
 		
 		<ul>
 			<li><a href="http://en.wikipedia.org/wiki/Sixaxis">Sixaxis Wireless Controller</a>, official gamepad between 2006 and 2008.</li>
@@ -126,14 +127,14 @@
 		<div class="highlight highlight-html">
 			<h3>HTML5 Support</h3>
 			<strong>68/500</strong>
-			<p>as of July 11th 2012</p>
+			<p>as of July 2012</p>
 			<aside><p>Source: <a href="http://html5test.com">html5test.com</a></p></aside>
 		</div>
 		
 		<div class="highlight highlight-css">
 			<h3>CSS3 Support</h3>
 			<strong>38%</strong>
-			<p>as of July 11th 2012</p>
+			<p>as of July 2012</p>
 			<aside><p>Source: <a href="http://css3test.com">css3test.com</a></p></aside>
 		</div>
 	

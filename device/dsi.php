@@ -104,14 +104,14 @@
 		<div class="highlight highlight-html">
 			<h3>HTML5 Support</h3>
 			<strong>89/500</strong>
-			<p>as of July 11th 2012</p>
+			<p>as of July 2012</p>
 			<aside><p>Source: <a href="http://html5test.com">html5test.com</a></p></aside>
 		</div>
 		
 		<div class="highlight highlight-css">
 			<h3>CSS3 Support</h3>
 			<p>Failed to run</p>
-			<p>as of July 11th 2012</p>
+			<p>as of July 2012</p>
 			<aside><p>Source: <a href="http://css3test.com">css3test.com</a></p></aside>
 		</div>
 		

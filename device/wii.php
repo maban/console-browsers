@@ -51,7 +51,7 @@
 		
 		<p>Remote vibrates when it hovers over a link. Pressing <span class="console-btn console-btn-wii-circle">-</span> and <span class="console-btn console-btn-wii-circle">+</span> buttons zooms.</p>
 		
-		<h3>Other Controllers</h3>
+		<h3>Other input devices</h3>
 		
 		<ul>
 			<li><a href="http://en.wikipedia.org/wiki/Wii_Remote#Nunchuk">Nunchuck</a>, an analog stick that plugs into the Wii Remote. Also has 2 shoulder buttons (C, top and Z, bottom) and contains a three-axis accelerometer. Comes bundled with the Wii console.</li>
@@ -117,14 +117,14 @@
 		<div class="highlight highlight-html">
 			<h3>HTML5 Support</h3>
 			<strong>89/500</strong>
-			<p>as of July 11th 2012</p>
+			<p>as of July 2012</p>
 			<aside><p>Source: <a href="http://html5test.com">html5test.com</a></p></aside>
 		</div>
 		
 		<div class="highlight highlight-css">
 			<h3>CSS3 Support</h3>
 			<p>Test wouldn't run</p>
-			<p>as of July 11th 2012</p>
+			<p>as of July 2012</p>
 			<aside><p>Source: <a href="http://css3test.com">css3test.com</a></p></aside>
 		</div>
 	</div><!-- .supplementary -->
