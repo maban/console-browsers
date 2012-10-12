@@ -15,7 +15,7 @@
 		
 		<aside><p><a href="http://en.wikipedia.org/wiki/Nintendo_DSi">More about the Nintendo DSi on Wikipedia</a></p></aside>
 		
-		<p>Features 2 resistive touch screens, to be used with a stylus provided that can be slotted into the back of the device when not in use.</p>
+		<p>Features 2 screens. Bottom is a resistive touchscreen to be used with a stylus provided that can be slotted into the back of the device when not in use.</p>
 		
 		<p>Text can be entered using an on-screen keyboard…</p>
 		
