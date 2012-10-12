@@ -32,6 +32,39 @@
 		
 		<h2>Tests</h2>
 		
+		<h3>Media query tests</h3>
+		
+		<aside><p>Source: <a href="http://www.jordanm.co.uk/palmreader">Palm Reader</a></p></aside>
+		
+		<h4>What the device can read:</h4>
+		
+		<ul>
+			<li><code>screen</code></li>
+			<li><code>color</code></li>
+			<li><code>(orientation : portrait)</code></li>
+			<li><code>(min-width)</code></li>
+			<li><code>(max-width)</code></li>
+		</ul>
+		
+		<h4>What the device says it isn't:</h4>
+		
+		<ul>
+			<li><code>print</code></li>
+			<li><code>tv</code></li>
+			<li><code>monochrome</code></li>
+			<li><code>handheld</code></li>
+			<li><code>projection</code></li>
+			<li><code>(-webkit-min-device-pixel-ratio: 2)</code></li>
+		</ul>
+		
+		<h4>Device doesn't recognise:</h4>
+		
+		<ul>
+			<li><code>(pointer:coarse)</code></li>
+			<li><code>(pointer:fine)</code></li>
+			<li><code>(pointer:none)</code></li>
+		</ul>
+		
 		<h3>device-pixel-ratio test</h3>
 		
 		<aside><p>Source: <a href="http://www.quirksmode.org/m/tests/dpr.html">Quirksmode</a></p></aside>
