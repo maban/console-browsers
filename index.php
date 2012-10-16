@@ -13,18 +13,18 @@
 	<nav class="nav-primary">
 		<ul>
 			<li class="device">
-				<article id="device-wii">
-					<a class="description" href="device/wii.php">
-						<h1 class="title">Nintendo Wii</h1>
-						<img src="image/wii-controller.png" alt="Picture of the Wii" />
-					</a>
-				</article>
-			</li>
-			<li class="device">
 				<article id="device-ps3">
 					<a class="description" href="device/ps3.php">
 						<h1 class="title">Sony PS3</h1>
 						<img src="image/ps3-controller.png" alt="Picture of the PS3" />
+					</a>
+				</article>
+			</li>
+			<li class="device">
+				<article id="device-xbox360">
+					<a class="description" href="device/xbox360.php">
+						<h1 class="title">Xbox 360</h1>
+						<img src="image/xbox360-controller.png" alt="Picture of the Xbox 360 controller" />
 					</a>
 				</article>
 			</li>

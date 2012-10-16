@@ -741,6 +741,10 @@ nav li {
 	.browser-webkit {
 		background-image: url("image/browser-webkit-32.png");
 		}
+		
+	.browser-ie {
+		background-image: url("image/browser-ie-32.png");
+		}
 	
 	/* @end */
 	
