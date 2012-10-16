@@ -84,7 +84,6 @@
 		<h2>Waiting for official release:</h2>
 		<p>These are devices that haven't come out yet.</p>
 		<ul>
-			<li>Xbox (IE9)</li>
 			<li>Wii U</li>
 			<li>Ouya</li>
 			<li>Razer Switchblade</li>
