@@ -829,21 +829,43 @@ nav li {
 	background-color: #888;
 	clear: both;
 	color: #fff;
-}
+	}
 
 .nav-tertiary {
 	background-color: #666;
-}
+	}
 
 .nav-secondary a,
 .nav-tertiary a {
 	color: #fff;
-}
+	}
 
 .nav-secondary ul,
 .nav-tertiary ul {
 	padding-left: 1em;
-}
+	}
+
+.nav-primary ul {
+	margin: 2em;
+	overflow: hidden;
+	}
+
+.nav-primary h3,
+.nav-primary h4 {
+	clear: both;
+	text-align: center;
+	}
+
+.nav-primary h3 {
+	padding: 1em 0 0;
+	font-size: 2em;
+	border-top: 1px solid #ccc;
+	margin: 0 0 1em;
+	}
+
+.nav-primary h4 {
+	margin: 2em 0 1em;
+	}
 	
 	/* @group Main footer */
 	
