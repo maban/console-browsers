@@ -21,7 +21,7 @@
 		
 		<p>The keyboard has big touch areas. This is good for gesture or for using a device like a Wii-mote, but when you're using the analogue stick on the Xbox controller, this means lots of traversing. The D-pad can't be used to change keys, only to move the position of the text cursor.</p>
 		
-		<img class="full" src="../image/xbox-photo-keyboard.jpeg" alt="photo of the Xbox browser's keyboard" />
+		<img class="full" src="../image/xbox-photo-keyboard.jpg" alt="photo of the Xbox browser's keyboard" />
 		
 		<p>You can zoom in using the shoulder buttons (LT and RT)</p>
 		
@@ -50,7 +50,7 @@
 			<li>Left stick in + RT/LT: smart zoom (zoom on centre).</li>
 		</ul>
 		
-		<img class="full" src="../image/xbox-photo-controller-instructions.jpeg" alt="photo of the Xbox browser's instructions" />
+		<img class="full" src="../image/xbox-photo-controller-instructions.jpg" alt="photo of the Xbox browser's instructions" />
 		
 		<h3>Other input devices</h3>
 		
