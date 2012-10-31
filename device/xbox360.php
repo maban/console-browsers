@@ -13,15 +13,38 @@
 		
 		<h2>About the Xbox 360</h2>
 		
+		<p>There's a cursor on the screen that glows green when it's hovered over a link. Scrolling is sluggish. You can scroll by going off the bottom edge of the screen (left analogue stick) or by panning down with the right analogue stick. On the screen, there's a little scrollbar that can't be manipulated. The screen can flicker quite a bit on scroll</p>
+		
+		<p>In the settings, you can select and option to "use whole TV screen to show web content", which is off by default. When it's off, gaps appear at the edge of the site. When it's on, the site fits the TV screen up to the edges.</p>
+		
+		<p>The keyboard has big touch areas. This is good for gesture or for using a device like a Wii-mote, but when you're using the d-pad on the Xbox controller, this means lots of traversing.</p>
+		
+		<p>You can zoom in using the shoulder buttons (LT and RT)</p>
+		
+		<p>The typography handling is better than other consoles, but not as good as desktop browsers.</p>
+		
+		<p>Flash doesn't work, so no Youtube. No file handling.</p>
+		
 		<aside><p><a href="http://en.wikipedia.org/wiki/Xbox_360">More about the Xbox 360 on Wikipedia</a></p></aside>
 		
-		<p>I haven't had a chance to fully test the browser in the Xbox 360 yet, but you should check out <a href="http://www.broken-links.com/2012/10/16/internet-explorer-on-xbox-360/">Peter Gasston</a>'s notes (which is where I got this data from).</p>
+		<p>I'm still collecting notes on the Xbox 360 yet, so you should check out <a href="http://www.broken-links.com/2012/10/16/internet-explorer-on-xbox-360/">Peter Gasston</a>'s notes for more information and screenshots.</p>
 		
 		<h2>Inputs</h2>
 		
 		<h3>Primary Controller</h3>
 		
 		<p><a href="http://en.wikipedia.org/wiki/Xbox_360_Controller">Xbox 360 controller</a></p>
+		
+		<ul>
+			<li>B: back</li>
+			<li>Y: web hub (dashboard/bookmarks)</li>
+			<li>Back: back in web history</li>
+			<li>Start: forward in web history</li>
+			<li>Back triggers: zoom</li>
+			<li>RT: zoom in</li>
+			<li>LT: zoom out</li>
+			<li>Left stick in + RT/LT: smart zoom (zoom on centre).</li>
+		</ul>
 		
 		<h3>Other input devices</h3>
 		
@@ -54,6 +77,14 @@
 			<p>as of October 2012</p>
 			<aside><p>Source: <a href="http://html5test.com">html5test.com</a></p></aside>
 		</div>
+		
+		<div class="highlight highlight-css">
+			<h3>CSS3 Support</h3>
+			<strong>32%</strong>
+			<p>as of October 2012</p>
+			<aside><p>Source: <a href="http://css3test.com">css3test.com</a></p></aside>
+		</div>
+		
 	</div><!-- .supplementary -->
 	
 </article>
