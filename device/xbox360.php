@@ -17,7 +17,11 @@
 		
 		<p>In the settings, you can select and option to "use whole TV screen to show web content", which is off by default. When it's off, gaps appear at the edge of the site. When it's on, the site fits the TV screen up to the edges.</p>
 		
-		<p>The keyboard has big touch areas. This is good for gesture or for using a device like a Wii-mote, but when you're using the d-pad on the Xbox controller, this means lots of traversing.</p>
+		<?php/* <img class="full" src="../image/xbox-photo-settings.jpeg" alt="photo of the Xbox browser's settings" />*/ ?>
+		
+		<p>The keyboard has big touch areas. This is good for gesture or for using a device like a Wii-mote, but when you're using the analogue stick on the Xbox controller, this means lots of traversing. The D-pad can't be used to change keys, only to move the position of the text cursor.</p>
+		
+		<img class="full" src="../image/xbox-photo-keyboard.jpeg" alt="photo of the Xbox browser's keyboard" />
 		
 		<p>You can zoom in using the shoulder buttons (LT and RT)</p>
 		
@@ -45,6 +49,8 @@
 			<li>LT: zoom out</li>
 			<li>Left stick in + RT/LT: smart zoom (zoom on centre).</li>
 		</ul>
+		
+		<img class="full" src="../image/xbox-photo-controller-instructions.jpeg" alt="photo of the Xbox browser's instructions" />
 		
 		<h3>Other input devices</h3>
 		
