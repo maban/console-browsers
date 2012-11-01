@@ -71,6 +71,14 @@
 			<li><a href="http://en.wikipedia.org/wiki/PlayStation_3_accessories#Wireless_keypad">Wireless Keypad</a>, attaches to the top of the controller.</li>
 			<li><a href="http://en.wikipedia.org/wiki/PlayStation_3_accessories#PlayStation_Move">Playstation Move</a>, motion-sensing game controller.</li>
 		</ul>
+		
+		<h2>Photos</h2>
+		
+		<div class="photos">
+			<script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=10&display=latest&size=m&layout=h&context=in%2Fpool-2101283%40N20%2F&source=group_tag&group=2101283%40N20&tag=ps3">
+			</script>
+			<p class="quiet">See more on <a href="http://www.flickr.com" id="flickr_www">www.<strong style="color:#3993ff">flick<span style="color:#ff1c92">r</span></strong>.com</a> in the <a href="http://www.flickr.com/groups/2101283@N20/pool/tags/ps3">Game console browsers pool tagged with ps3</a></p>
+		</div>
 	
 	</div><!-- .entry-content -->
 		
