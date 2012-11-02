@@ -13,7 +13,7 @@
 	
 	<h2>Tested devices:</h2>
 	
-	<p>I've written up some of the tests I ran on these devices, and they're now part of <a href="http://clearleft.com/testlab/">Clearleft's community test lab</a>. (Except for the Wii, which was borrowed, and the PS3, which lives with me.)</p>
+	<p>I've written up some of the tests I ran on these devices, and they're now part of <a href="http://clearleft.com/testlab/">Clearleft's community test lab</a>. (Except for the TV consoles, which I borrowed from friends.)</p>
 	
 	<nav class="nav-primary">
 		
@@ -41,6 +41,14 @@
 					<a class="description" href="device/xbox360.php">
 						<h1 class="title">Xbox 360</h1>
 						<img src="image/xbox360-controller.png" alt="Picture of the Xbox 360 controller" />
+					</a>
+				</article>
+			</li>
+			<li class="device">
+				<article id="device-wiiu">
+					<a class="description" href="device/wiiu.php">
+						<h1 class="title">Wii U</h1>
+						<img src="image/wiiu-controller.png" alt="Picture of the Wii U controller" />
 					</a>
 				</article>
 			</li>
@@ -88,6 +96,14 @@
 					</a>
 				</article>
 			</li>
+			<li class="device">
+				<article id="device-ds">
+					<a class="description" href="device/ds.php">
+						<h1 class="title">Nintendo DS</h1>
+						<img src="image/ds-controller.png" alt="Picture of the DS" />
+					</a>
+				</article>
+			</li>
 		</ul>
 		
 		<h3>Hybrid Phone/Portable console</h3>
@@ -118,7 +134,6 @@
 		<p>These are devices that have browsers but I don't have them in my library yet.</p>
 		
 		<ul>
-			<li>DS (notes on this one coming soon)</li>
 			<li>DSi XL</li>
 			<li>3DS</li>
 			<li>PSP 2000</li>
