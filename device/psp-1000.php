@@ -2,7 +2,7 @@
 <body class="section-device">
 <header id="top">
 	<?php include('../module/nav.php');?>
-	<h1 class="heading">Xbox 360</h1>
+	<h1 class="heading">PSP-1000</h1>
 </header>
 
 <section class="content">
@@ -78,7 +78,7 @@
 	
 	<div class="supplementary">
 	
-		<img src="../image/psp1000-controller.png" alt="Photo of the PSP 1000 controller." />
+		<img src="../image/psp-1000-controller.png" alt="Photo of the PSP 1000 controller." />
 		
 		<h2>Browser</h2>
 		

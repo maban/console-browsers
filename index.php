@@ -10,10 +10,17 @@
 <section class="content">
 
 <div class="entry-content">
+	<h2>Contribute</h2>
+	
+	<p>All of the devices except the ones I've borrowed like the Wii, Xbox and PS3, live in <a href="http://clearleft.com/testlab/">Clearleft's test lab</a> which is open for anyone to drop by and use. I've bought most of the consoles on this site, although a couple have been kindly donated.</p>
+	
+	<p>If you'd like to contribute, or if you already own one of these devices and you don't want it any more, please have a look at my <a href="http://www.amazon.co.uk/registry/wishlist/1QGHF0I6T29TR">wishlist of consoles and peripherals I don't yet have in the test lab</a>. <a href="http://clearleft.com/canhelp/">Post it to Clearleft</a> to form part of their test lab, and I'll run lots of tests on it and document them on this site. I look for second-hand models with all the cables. I got the PS Vita for a bargain because it had a dead pixel. The DSi was missing the box and the stylus, but it doesn't matter as long as all the buttons and screen work so I can properly test the browser in them.</p>
+	
+</div>
+
+<div class="entry-content">
 	
 	<h2>Tested devices:</h2>
-	
-	<p>I've written up some of the tests I ran on these devices, and they're now part of <a href="http://clearleft.com/testlab/">Clearleft's community test lab</a>. (Except for the TV consoles, which I borrowed from friends.)</p>
 	
 	<nav class="nav-primary">
 		
