@@ -175,6 +175,12 @@
 	</div>
 	
 	<div class="links">
+		<h2>Presentations</h2>
+		<ul>
+			<li><a class="description" href="https://speakerdeck.com/anna/exploring-the-game-console-browser-landscape"><strong>Exploring the game console browser landscape</strong></a>
+			</li>
+		</ul>
+		
 		<h2>Useful Links</h2>
 		<ul>
 			<li><a class="description" href="https://developers.google.com/tv/web/docs/design_for_tv"><strong>TV Design Guidelines</strong>, Google</a>

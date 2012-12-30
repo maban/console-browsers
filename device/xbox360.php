@@ -37,6 +37,24 @@
 		
 		<p>I'm still collecting notes on the Xbox 360 yet, so you should check out <a href="http://www.broken-links.com/2012/10/16/internet-explorer-on-xbox-360/">Peter Gasston</a>'s notes for more information and screenshots.</p>
 		
+		<h3>Google TV jQuery UI library tests</h3>
+		
+		<aside><p>Source: <a href="https://developers.google.com/tv/web/lib/jquery/">Google TV jQuery UI Library (1.0)</a></p></aside>
+		
+		<ul>
+			<li><a href="http://gtv-ui-lib.googlecode.com/svn/trunk/jquery/examples/row-control.html">RowControl</a>: Works as expected</li>
+			<li><a href="http://gtv-ui-lib.googlecode.com/svn/trunk/jquery/examples/sidenav-control.html">SideNavControl</a>: <a href="http://www.flickr.com/photos/anna_debenham/8324581577">Buggy</a></li>
+			<li><a href="http://gtv-ui-lib.googlecode.com/svn/trunk/jquery/examples/slider-control.html">SlidingControl</a>: Buggy (no content displays)</li>
+			<li><a href="http://gtv-ui-lib.googlecode.com/svn/trunk/jquery/examples/slider-control.html">SlidingControl</a>: Buggy (no content displays)</li>
+			<li><a href="http://gtv-ui-lib.googlecode.com/svn/trunk/jquery/examples/builderphoto-page.html">PhotoControl</a>: Buggy (no content displays)</li>
+			<li><a href="http://gtv-ui-lib.googlecode.com/svn/trunk/jquery/examples/buildervideo-page.html">VideoControl</a>: <a href="http://www.flickr.com/photos/anna_debenham/8325637848">Buggy</a></li>
+			<li><a href="http://gtv-ui-lib.googlecode.com/svn/trunk/jquery/examples/roller-control.html">RollerControl</a>: <a href="http://www.flickr.com/photos/anna_debenham/8325637282">Buggy</a></li>
+			<li><a href="http://gtv-ui-lib.googlecode.com/svn/trunk/jquery/examples/rotator-control.html">RotatorControl</a>: <a href="http://www.flickr.com/photos/anna_debenham/8324579435">Buggy</a></li>
+			<li><a href="http://gtv-ui-lib.googlecode.com/svn/trunk/jquery/examples/stack-control.html">StackControl</a>: <a href="http://www.flickr.com/photos/anna_debenham/8325635932">Buggy</a></li>
+			<li><a href="http://gtv-ui-lib.googlecode.com/svn/trunk/jquery/examples/builderphoto-page.html">BuilderPhotoPage</a>: Buggy (no content displays)</li>
+			<li><a href="http://gtv-ui-lib.googlecode.com/svn/trunk/jquery/examples/buildervideo-page.html">BuilderVideoPage</a>: <a href="http://www.flickr.com/photos/anna_debenham/8325637848">Buggy</a></li>
+		</ul>
+		
 		<h3>Media query tests</h3>
 		
 		<aside><p>Source: <a href="http://www.jordanm.co.uk/palmreader">Palm Reader</a></p></aside>

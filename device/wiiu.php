@@ -15,9 +15,20 @@
 		
 		<aside><p><a href="http://en.wikipedia.org/wiki/Wii_U">More about the Wii U on Wikipedia</a></p></aside>
 		
-		<p>This device isn't out yet so I don't have any notes. It's due to be released in North America on the 18th of November, the EU and Australia on the 30th of November, and Japan on the 8th of December.</p>
+		<p>Scores 100% in the <a href="http://acid3.acidtests.org/">Acid 3 test</a>.</p>
+		
+		<p>The gamepad can be used as a remote control for the TV.</p>
 		
 		<h2>Inputs</h2>
+		
+		<figure>
+			<a href="../image/diagram-wiiu.png">
+				<img src="../image/diagram-wiiu.png" alt="diagram of the Wii U controller"/>
+				<figcaption>
+					<p>See big version</p>
+				</figcaption>
+			</a>
+		</figure>
 		
 		<h3>Primary Controller</h3>
 		
@@ -39,19 +50,19 @@
 		
 		<h2>Browser</h2>
 		
-		<p class="browser">Browser so far unknown</p>
+		<p class="browser browser-webkit">Webkit version of NetFront</p>
 				
 		<div class="highlight highlight-html">
 			<h3>HTML5 Support</h3>
-			<strong>323</strong>
-			<p>as of November 2012</p>
+			<strong>258/500</strong>
+			<p>as of December 2012</p>
 			<aside><p>Source: <a href="http://html5test.com/compare/browser/nintendowiiu.html">html5test.com</a></p></aside>
 		</div>
 		
 		<div class="highlight highlight-css">
 			<h3>CSS3 Support</h3>
-			<p>Not tested yet</p>
-			<p>as of November 2012</p>
+			<p>48%</p>
+			<p>as of December 2012</p>
 			<aside><p>Source: <a href="http://css3test.com">css3test.com</a></p></aside>
 		</div>
 	</div><!-- .supplementary -->
