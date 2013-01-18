@@ -1,117 +1,145 @@
 <?php include('../module/head.php');?>
-<body class="section-device">
-<header id="top">
-	<?php include('../module/nav.php');?>
-	<h1 class="heading">PSP-1000</h1>
-</header>
 
-<section class="content">
+<body class="section-device">
+
+<?php include('../module/nav-primary.php');?>
+
+<section class="container-fluid">
 	
-<article>
+	<div class="row-fluid">
 		
-	<div class="entry-content">
+		<div class="span3">
+			<?php include('../module/nav-secondary.php');?>
+		</div>
 		
-		<h2>About the PSP-1000</h2>
+		<div class="span9">
 		
-		<aside><p><a href="http://en.wikipedia.org/wiki/PlayStation_Portable">More about the PSP-1000 on Wikipedia</a></p></aside>
-		
-		<p>The screen is not a touch screen. There is a small cursor that can be moved around using the left thumbstick. The d-pad cycles through links on the page and scrolls.</p>
-		
-		<p>The left and right shoulder pads move back and forward through the browser history. Holding down the square button and tapping the right shoulder pad opens up a new tab. There can be up to 3 tabs open at once.</p>
-		
-		<p>The browser standard is very low. A lot of sites don't load, or content doesn't appear. Typing is very fiddly, keyboard is SMS style and the select and cancel keys are mapped differently to modern PlayStation controls (select and cancel are swapped round)</p>
-		
-		<p>Text size can be adjusted in the settings.</p>
-		
-		
-		
-		<h3>Media query tests</h3>
-		
-		<aside><p>Source: <a href="http://www.jordanm.co.uk/palmreader">Palm Reader</a></p></aside>
-		
-		<h4>What the device can read:</h4>
-		
-		<ul>
-			<li><code>screen</code></li>
+			<h1 class="page-header">Sony PSP-1000</h1>
 			
-		</ul>
+			<p class="lead browser browser-unknown">Unknown. Reports itself as Mozilla.</p>
+			
+			<div class="row-fluid">
+			
+				<div class="span6">
+				
+					<img src="../image/psp-1000-controller.png" alt="Photo of the PSP 1000 controller." />
+								
+				</div>
+			
+				<div class="span6">
+				
+					<p>The screen is not a touch screen. There is a small cursor that can be moved around using the left thumbstick. The d-pad cycles through links on the page and scrolls.</p>
+					
+					<p>The left and right shoulder pads move back and forward through the browser history. Holding down the square button and tapping the right shoulder pad opens up a new tab. There can be up to 3 tabs open at once.</p>
+					
+					<p>The browser standard is very low. A lot of sites don't load, or content doesn't appear. Typing is very fiddly, keyboard is SMS style and the select and cancel keys are mapped differently to modern PlayStation controls (select and cancel are swapped round)</p>
+					
+					<p>Text size can be adjusted in the settings.</p>
+				
+					<aside><p><a href="http://en.wikipedia.org/wiki/PlayStation_Portable">More about the PSP-1000 on Wikipedia</a></p></aside>
+					
+				</div>
+				
+			</div>
+
+			<div class="row-fluid">
+			
+				<div class="span6 well">
+					<h3>HTML5 Test: Test wouldn't run</h3>
+					<div class="progress progress-success">
+					  <div class="bar"></div>
+					</div>
+					<p>As of October 2012. Source: <a href="http://html5test.com">html5test.com</a></p>
+				</div>
+				
+				<div class="span6 well">
+					<h3>CSS3 Test: Test wouldn't run</h3>
+					<div class="progress progress-success">
+					  <div class="bar"></div>
+					</div>
+					<p>As of October 2012. Source: <a href="http://css3test.com">css3test.com</a></p>
+				</div>
+			
+			</div>
 		
-		<h4>What the device says it isn't:</h4>
+			<h2 class="page-header">Support Details</h2>
 		
-		<ul>
-			<li><code>print</code></li>
-			<li><code>tv</code></li>
-			<li><code>color</code></li>
-			<li><code>monochrome</code></li>
-			<li><code>handheld</code></li>
-			<li><code>projection</code></li>
-			<li><code>(orientation : portrait)</code></li>
-			<li><code>(orientation : landscape)</code></li>
-			<li><code>(min-width)</code></li>
-			<li><code>(max-width)</code></li>
-			<li><code>(-webkit-min-device-pixel-ratio: 2)</code></li>
-			<li><code>(pointer:coarse)</code></li>
-			<li><code>(pointer:fine)</code></li>
-			<li><code>(pointer:none)</code></li>
-		</ul>	
+			<table class="table table-striped">
+				<tr>
+					<th>User Agent</th>
+					<td><code>Mozilla/4.0 (PlayStation Portable); 2.00)</code></td>
+				</tr>
+			</table>
 		
-		<h2>Controls</h2>
+			<h3>Media query tests</h3>
 		
-		<figure>
-			<a href="../image/diagram-psp-1000-controller.png">
-				<img src="../image/diagram-psp-1000-controller.png" alt="diagram of the PS Vita" />
-				<figcaption>
-					<p>See big version</p>
-				</figcaption>
-			</a>
-		</figure>
+			<aside><p>Source: <a href="http://www.jordanm.co.uk/palmreader">Palm Reader</a></p></aside>
 		
-		<h2>Photos</h2>
+			
+			<div class="row-fluid">
+				
+				<div class="span4">
+					<h4>What the device can read:</h4>
 		
-		<div class="photos">
-			<script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=10&display=latest&size=m&layout=h&context=in%2Fpool-2101283%40N20%2F&source=group_tag&group=2101283%40N20&tag=psp-1000">
-			</script>
+					<ul>
+						<li><code>screen</code></li>
+						
+					</ul>
+				</div>
+					
+				<div class="span4">
+		
+					<h4>What the device says it isn't:</h4>
+		
+					<ul>
+						<li><code>print</code></li>
+						<li><code>tv</code></li>
+						<li><code>color</code></li>
+						<li><code>monochrome</code></li>
+						<li><code>handheld</code></li>
+						<li><code>projection</code></li>
+						<li><code>(orientation : portrait)</code></li>
+						<li><code>(orientation : landscape)</code></li>
+						<li><code>(min-width)</code></li>
+						<li><code>(max-width)</code></li>
+						<li><code>(-webkit-min-device-pixel-ratio: 2)</code></li>
+						<li><code>(pointer:coarse)</code></li>
+						<li><code>(pointer:fine)</code></li>
+						<li><code>(pointer:none)</code></li>
+					</ul>	
+				
+				</div>
+			
+			</div>
+			
+			<h2 class="page-header">Controls</h2>
+			
+			<figure>
+				<a href="../image/diagram-psp-1000-controller.png">
+					<img src="../image/diagram-psp-1000-controller.png" alt="diagram of the PS Vita" />
+					<figcaption>
+						<p><i class="icon icon-resize-full"></i> See big version</p>
+					</figcaption>
+				</a>
+			</figure>
+						
+			<h2 class="page-header">Photos</h2>
+			
+			<div class="thumbnails flickr">
+				<script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=3&display=latest&size=m&layout=h&context=in%2Fpool-2101283%40N20%2F&source=group_tag&group=2101283%40N20&tag=psp-1000">
+				</script>
+			</div>
+		
 			<p class="quiet">See more on <a href="http://www.flickr.com" id="flickr_www">www.<strong style="color:#3993ff">flick<span style="color:#ff1c92">r</span></strong>.com</a> in the <a href="http://www.flickr.com/groups/2101283@N20/pool/tags/psp-1000">Game console browsers pool tagged with psp-1000</a></p>
-		</div>
 		
-	</div><!-- .entry-content -->
+		</div><!-- .span9 -->
 	
-	<div class="supplementary">
-	
-		<img src="../image/psp-1000-controller.png" alt="Photo of the PSP 1000 controller." />
-		
-		<h2>Browser</h2>
-		
-		<p>Unknown. Reports itself as Mozilla.</p>
-		
-		<h2>Support Details</h2>
-		
-		<table>
-			<tr>
-				<th>User Agent</th>
-				<td><code>Mozilla/4.0 (PlayStation Portable); 2.00)</code></td>
-			</tr>
-		</table>
-		
-		<div class="highlight highlight-html">
-			<h3>HTML5 Support</h3>
-			<p>Test wouldn't run</p>
-			<p>as of October 2012</p>
-			<aside><p>Source: <a href="http://html5test.com">html5test.com</a></p></aside>
-		</div>
-		
-		<div class="highlight highlight-css">
-			<h3>CSS3 Support</h3>
-			<p>Test wouldn't run</p>
-			<p>as of October 2012</p>
-			<aside><p>Source: <a href="http://css3test.com">css3test.com</a></p></aside>
-		</div>
-		
-	</div><!-- .supplementary -->
-	
-</article>
+	</div><!-- .row-fluid -->
 
 </section>
+
 <?php include('../module/foot.php');?>
+
 </body>
+
 </html>
