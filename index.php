@@ -142,16 +142,56 @@
 	
 	<div class="row-fluid">
 		
+		<h2 class="page-header">Smart TVs</h2>
+		
+		<ul class="device-thumbnails row-fluid">
+			
+			<li class="span3 well">
+				<a href="device/vizio-costar.php">
+					<h4 class="title">Vizio Co-Star (Google TV)</h4>
+					<img src="image/viziocostar-box.png" alt="Picture of the Vizio Co-Star Box" />
+				</a>
+			
+			</li>
+					
+		</ul>
+	
+	</div>
+		
+	<div class="row-fluid">
+		
 		<h2 class="page-header">Waiting for official release</h2>
 		
 		<ul class="device-thumbnails row-fluid">
 			
 			<li class="span3 well">
 				<h4 class="title">Ouya</h4>
+				<p>Release dates: December 28, 2012 (Devs), March 2013 (Preorder), April 2013 (Retail)</p>
+				<p><a href="http://en.wikipedia.org/wiki/Ouya">Ouya on Wikipedia <i class="icon icon-share-alt"></i></a></p>
 			</li>
 			
 			<li class="span3 well">
 				<h4 class="title">Razer Switchblade</h4>
+				<p>Release dates: TBA 2013</p>
+				<p><a href="http://en.wikipedia.org/wiki/Razer_Switchblade">Razer Switchblade on Wikipedia <i class="icon icon-share-alt"></i></a></p>
+			</li>
+			
+			<li class="span3 well">
+				<h4 class="title">Razer Edge</h4>
+				<p>Tablet console running Windows 8.</p>
+				<p><a href="http://www.theverge.com/2013/1/8/3845580/razer-edge-is-combination-tablet-laptop-and-console">About the Razer Edge on The Verge <i class="icon icon-share-alt"></i></a></p>
+			</li>
+			
+			<li class="span3 well">
+				<h4 class="title">Nvidia's Project Shield</h4>
+				<p>Proposed console</p>
+				<p><a href="http://en.wikipedia.org/wiki/Nvidia_Project_Shield">Project Shield on Wikipedia <i class="icon icon-share-alt"></i></a></p>
+			</li>
+			
+			<li class="span3 well">
+				<h4 class="title">Valve's Steam Box</h4>
+				<p>Release dates: Expected 2014</p>
+				<p><a href="http://en.wikipedia.org/wiki/Steam_(software)#Steam_Box">Steam Box on Wikipedia <i class="icon icon-share-alt"></i></a></p>
 			</li>
 					
 		</ul>
