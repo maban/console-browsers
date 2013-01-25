@@ -27,4 +27,7 @@
 	<li class="nav-header">Waiting for official release</li>
 		<li class="inactive">Ouya</li>
 		<li class="inactive">Razer Switchblade</li>
+		<li class="inactive">Razer Edge</li>
+		<li class="inactive">Nvidia's Project Shield</li>
+		<li class="inactive">Valve's Steam Box</li>
 </ul>
