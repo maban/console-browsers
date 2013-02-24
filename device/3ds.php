@@ -77,7 +77,7 @@
 				</tr>
 				<tr>
 					<th>Browser Size</th>
-					<td>554 x 640</td>
+					<td>320 x 369</td>
 				</tr>
 				<tr>
 					<th>Color Depth</th>
@@ -173,8 +173,6 @@
 			<div class="thumbnails flickr">
 				
 			</div>
-			
-			<p>See more on <a href="http://www.flickr.com" id="flickr_www">www.<strong style="color:#3993ff">flick<span style="color:#ff1c92">r</span></strong>.com</a> in the <a href="http://www.flickr.com/groups/2101283@N20/pool/tags/3ds xl">Game console browsers pool tagged with 3ds xl</a></p>
 			
 		</div><!-- .span9 -->
 	
