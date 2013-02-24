@@ -105,7 +105,18 @@
 					<img src="image/3dsxl-controller.png" alt="Picture of the 3DS XL" />
 				</a>
 			</li>
+
+			<li class="span3 well">
+				<a href="device/3ds.php">
+					<h4 class="title">Nintendo 3DS</h4>
+					<img src="image/3dsxl-controller.png" alt="Picture of the 3DS" />
+				</a>
+			</li>
 			
+		</ul>
+
+		<ul class="device-thumbnails row-fluid">
+
 			<li class="span3 well">
 				<h4 class="title">Nintendo DS Lite (untested)</h4>
 			</li>
@@ -113,11 +124,7 @@
 			<li class="span3 well">
 				<h4 class="title">Nintendo DSi XL (untested)</h4>
 			</li>
-			
-			<li class="span3 well">
-				<h4 class="title">Nintendo 3DS (untested)</h4>
-			</li>
-			
+
 		</ul>
 	
 	</div>

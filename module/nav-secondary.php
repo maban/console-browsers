@@ -15,7 +15,7 @@
 		<li class="inactive">Nintendo DS Lite (untested)</li>
 		<li><a href="/device/dsi.php">Nintendo DSi</a></li>
 		<li class="inactive">Nintendo DSi XL (untested)</li>
-		<li class="inactive">Nintendo 3DS (untested)</li>
+		<li><a href="/device/3ds.php">Nintendo 3DS</a></li>
 		<li><a href="/device/3dsxl.php">Nintendo 3DS XL</a></li>
 	<li class="divider"></li>
 	<li class="nav-header">Hybrid Phone/Portable Consoles</li>
