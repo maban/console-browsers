@@ -21,10 +21,13 @@
 	<li class="nav-header">Hybrid Phone/Portable Consoles</li>
 		<li><a href="/device/xperiaplay.php">Xperia Play</a></li>
 	<li class="divider"></li>
-	<!--<li class="nav-header">Smart TVs</li>
+	<li class="nav-header">Smart TVs</li>
 		<li><a href="/device/vizio-costar.php">Vizio Co-Star</a></li>
-	<li class="divider"></li>-->
+	<li class="divider"></li>
 	<li class="nav-header">Waiting for official release</li>
 		<li class="inactive">Ouya</li>
 		<li class="inactive">Razer Switchblade</li>
+		<li class="inactive">Razer Edge</li>
+		<li class="inactive">Nvidia's Project Shield</li>
+		<li class="inactive">Valve's Steam Box</li>
 </ul>

@@ -16,7 +16,7 @@
 		
 			<h1 class="page-header">Sony PSP-1000</h1>
 			
-			<p class="lead browser browser-unknown">Unknown. Reports itself as Mozilla.</p>
+			<p class="lead browser browser-unknown">Unknown browser. Reports itself as Mozilla.</p>
 			
 			<div class="row-fluid">
 			

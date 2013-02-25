@@ -8,7 +8,7 @@
 	
 	<div class="row-fluid">
 		
-		<h2 class="page-header">TV consoles:</h2>
+		<h2 class="page-header">TV consoles</h2>
 		
 		<ul class="device-thumbnails row-fluid">
 		
@@ -44,9 +44,9 @@
 	
 	</div>
 	
-		<h2 class="page-header">Portable consoles:</h2>
+		<h2 class="page-header">Portable consoles</h2>
 		
-		<h3>Sony PlayStation Portable line:</h3>
+		<h3>Sony PlayStation Portable line</h3>
 		
 		<ul class="device-thumbnails row-fluid">	
 		
@@ -81,7 +81,7 @@
 	
 	<div class="row-fluid">
 			
-		<h3>Nintendo DS line:</h3>
+		<h3>Nintendo DS line</h3>
 		
 		<ul class="device-thumbnails row-fluid">
 		
@@ -136,7 +136,7 @@
 		<ul class="device-thumbnails row-fluid">
 			
 			<li class="span3 well">
-				<a href="device/dsi.php">
+				<a href="device/xperiaplay.php">
 					<h4 class="title">Xperia Play</h4>
 					<img src="image/xperiaplay-controller.png" alt="Picture of the DSi" />
 				</a>
@@ -149,16 +149,57 @@
 	
 	<div class="row-fluid">
 		
+		<h2 class="page-header">Smart TVs</h2>
+		
+		<ul class="device-thumbnails row-fluid">
+			
+			<li class="span3 well">
+				<a href="device/vizio-costar.php">
+					<h4 class="title">Vizio Co-Star (Google TV)</h4>
+					<img src="image/vizio-costar-box.png" alt="Picture of the Vizio Co-Star Box" />
+				</a>
+			
+			</li>
+					
+		</ul>
+	
+	</div>
+		
+	<div class="row-fluid">
+		
 		<h2 class="page-header">Waiting for official release</h2>
 		
 		<ul class="device-thumbnails row-fluid">
 			
 			<li class="span3 well">
 				<h4 class="title">Ouya</h4>
+				<p>Release dates: December 28, 2012 (Devs), March 2013 (Preorder), April 2013 (Retail)</p>
+				<p><a href="http://en.wikipedia.org/wiki/Ouya">Ouya on Wikipedia <i class="icon icon-share-alt"></i></a></p>
 			</li>
 			
 			<li class="span3 well">
 				<h4 class="title">Razer Switchblade</h4>
+				<p>Release dates: TBA 2013</p>
+				<p><a href="http://en.wikipedia.org/wiki/Razer_Switchblade">Razer Switchblade on Wikipedia <i class="icon icon-share-alt"></i></a></p>
+			</li>
+			
+			<li class="span3 well">
+				<h4 class="title">Razer Edge</h4>
+				<p>Tablet console running Windows 8.</p>
+				<p><a href="http://www.theverge.com/2013/1/8/3845580/razer-edge-is-combination-tablet-laptop-and-console">About the Razer Edge on The Verge <i class="icon icon-share-alt"></i></a></p>
+			</li>
+			
+			<li class="span3 well">
+				<h4 class="title">Nvidia's Project Shield</h4>
+				<p>Proposed console</p>
+				<p><a href="http://en.wikipedia.org/wiki/Nvidia_Project_Shield">Project Shield on Wikipedia <i class="icon icon-share-alt"></i></a></p>
+				<p><a href="http://www.bbc.co.uk/news/technology-20931265">BBC article on Project Shield <i class="icon icon-share-alt"></i></a></p>
+			</li>
+			
+			<li class="span3 well">
+				<h4 class="title">Valve's Steam Box</h4>
+				<p>Release dates: Expected 2014</p>
+				<p><a href="http://en.wikipedia.org/wiki/Steam_(software)#Steam_Box">Steam Box on Wikipedia <i class="icon icon-share-alt"></i></a></p>
 			</li>
 					
 		</ul>
@@ -169,7 +210,7 @@
 
 		<h2 class="page-header">Contribute</h2>
 		
-		<p>All of the devices except the ones I've borrowed like the Wii, Xbox and PS3, live in <a href="http://clearleft.com/testlab/">Clearleft's test lab</a> which is open for anyone to drop by and use. I've bought most of the consoles on this site, although a couple have been kindly donated.</p>
+		<p>All of the devices except the ones I've borrowed like the Wii, Xbox and PS3, live in <a href="http://clearleft.com/does/test-lab/">Clearleft's test lab</a> which is open for anyone to drop by and use. I've bought most of the consoles on this site, although a couple have been kindly donated.</p>
 		
 		<p>If you'd like to contribute, or if you already own one of these devices and you don't want it any more, please have a look at my <a href="http://www.amazon.co.uk/registry/wishlist/1QGHF0I6T29TR">wishlist of consoles and peripherals I don't yet have in the test lab</a>. <a href="http://clearleft.com/canhelp/">Post it to Clearleft</a> to form part of their test lab, and I'll run lots of tests on it and document them on this site. I look for second-hand models with all the cables. I got the PS Vita for a bargain because it had a dead pixel. The DSi was missing the box and the stylus, but it doesn't matter as long as all the buttons and screen work so I can properly test the browser in them.</p>
 	

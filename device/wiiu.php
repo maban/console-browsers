@@ -27,13 +27,17 @@
 				</div>
 				
 				<div class="span6">
+					
+					<p>Released on November 18th 2013 in the US, November 30th in the UK. First mainstream second screen device.</p>
 				
 					<p>Scores 100% in the <a href="http://acid3.acidtests.org/">Acid 3 test</a>.</p>
 					
 					<p>The gamepad can be used as a remote control for the TV.</p>
 				
 					<aside><p><a href="http://en.wikipedia.org/wiki/Wii_U">More about the Wii U on Wikipedia</a></p></aside>
-				
+					
+					<aside><p><a href="http://24ways.org/2012/unwrapping-the-wii-u-browser">Article about the Wii U browser on 24 Ways</a></p></aside>
+					
 				</div>
 			
 			</div>
@@ -57,6 +61,49 @@
 				</div>
 			
 			</div>
+			
+			<h2 class="page-header">Support Details</h2>
+			
+			<aside><p>Source: <a href="http://supportdetails.com/">Support Details by Imulus</a>, March 2013</p></aside>
+			
+			<table class="table table-striped">
+				<tr>
+					<th>Operating System</th>
+					<td>unknown unknown</td>
+				</tr>
+				<tr>
+					<th>Screen Resolution</th>
+					<td>854 x 480</td>
+				</tr>
+				<tr>
+					<th>Web Browser</th>
+					<td>Safari -- <span class="note">Actually NetFront</span></td>
+				</tr>
+				<tr>
+					<th>Browser Size</th>
+					<td>980 x 514</td>
+				</tr>
+				<tr>
+					<th>Color Depth</th>
+					<td>32</td>
+				</tr>
+				<tr>
+					<th>Javascript</th>
+					<td>Enabled</td>
+				</tr>
+				<tr>
+					<th>Flash Version</th>
+					<td>Not Installed</td>
+				</tr>
+				<tr>
+					<th>Cookies</th>
+					<td>Enabled</td>
+				</tr>
+				<tr>
+					<th>User Agent</th>
+					<td><code>Mozilla/5.0 (Nintendo WiiU) AppleWebKit/534.52 (KHTML, like Gecko) NX/2.1.0.8.23 NintendoBrowser/1.1.0.7579.EU</code></td>
+				</tr>
+			</table>
 			
 			<h2 class="page-header">Inputs</h2>
 		
@@ -83,6 +130,15 @@
 			</div>
 		
 			<p class="quiet">See more on <a href="http://www.flickr.com" id="flickr_www">www.<strong style="color:#3993ff">flick<span style="color:#ff1c92">r</span></strong>.com</a> in the <a href="http://www.flickr.com/groups/2101283@N20/pool/tags/wiiu">Game console browsers pool tagged with wiiu</a></p>
+			
+			<h2 class="page-header">Links</h2>
+			
+			<ul>
+				<li><a href="http://iwataasks.nintendo.com/interviews/#/wiiu/internet-browser/0/0">Interview with Nintendo about the Wii U browser</a></li>
+				<li><a href="http://en.wikipedia.org/wiki/Wii_U_Internet_Browser">Wii U browser on Wikipedia</a></li>
+				<li><a href="http://wiiubrew.org/wiki/Internet_Browser#Wii_U_Scripting_Functionality">Wii U javascript documentation</a></li>
+				<li><a href="http://www.nintendo.co.jp/wiiu/hardware/features/internetbrowser/sample.html">Wii U javascript demo</a></li>
+			</ul>
 					
 		</div><!-- .span9 -->
 	
