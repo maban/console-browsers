@@ -79,7 +79,7 @@
 				</tr>
 				<tr>
 					<th>Web Browser</th>
-					<td>Safari -- <span class="note">Actually NetFront</span></td>
+					<td>Safari -- <span class="muted">Actually NetFront</span></td>
 				</tr>
 				<tr>
 					<th>Browser Size</th>
@@ -104,7 +104,7 @@
 				<tr>
 					<th>User Agent</th>
 					<td><code>Mozilla/5.0 (PlayStation Vita 1.69) AppleWebKit/531.22.8 (KHTML, like
-					Gecko) Silk/3.2</code> <span class="note">Silk is the browser for the Kindle Fire</span></td>
+					Gecko) Silk/3.2</code> <span class="muted">Silk is the browser for the Kindle Fire</span></td>
 				</tr>
 			</table>
 			

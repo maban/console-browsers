@@ -24,7 +24,9 @@
 			
 				<div class="span6">
 				
-					<img src="../image/3dsxl-controller.png" alt="diagram of the 3DS XL controller" />
+					<p>Image coming shortly.</p>
+				
+					<?php/*<img src="../image/3dsxl-controller.png" alt="diagram of the 3DS XL controller" />*/?>
 								
 				</div>
 				
@@ -75,7 +77,7 @@
 				</tr>
 				<tr>
 					<th>Web Browser</th>
-					<td>unknown <span class="note">Actually NetFront</span></td>
+					<td>unknown <span class="muted">Actually NetFront</span></td>
 				</tr>
 				<tr>
 					<th>Browser Size</th>
@@ -103,7 +105,7 @@
 				</tr>
 			</table>
 			
-			<h2 class="page-header">Controls</h2>
+			<?php/*<h2 class="page-header">Controls</h2>
 					
 			<figure>
 				<a href="../image/diagram-3dsxl-controller.png">
@@ -112,7 +114,7 @@
 						<p><i class="icon icon-resize-full"></i> See big version</p>
 					</figcaption>
 				</a>
-			</figure>
+			</figure>*/?>
 			
 			<h2 class="page-header">Tests</h2>
 			

@@ -76,7 +76,7 @@
 				</tr>
 				<tr>
 					<th>Web Browser</th>
-					<td>Safari -- <span class="note">Actually NetFront</span></td>
+					<td>Safari -- <span class="muted">Actually NetFront</span></td>
 				</tr>
 				<tr>
 					<th>Browser Size</th>

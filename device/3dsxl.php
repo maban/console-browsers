@@ -73,7 +73,7 @@
 				</tr>
 				<tr>
 					<th>Web Browser</th>
-					<td>unknown <span class="note">Actually NetFront</span></td>
+					<td>unknown <span class="muted">Actually NetFront</span></td>
 				</tr>
 				<tr>
 					<th>Browser Size</th>
