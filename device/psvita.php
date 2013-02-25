@@ -45,24 +45,26 @@
 			<div class="row-fluid">
 			
 				<div class="span6 well">
-					<h3>HTML5 Test: 58/500</h3>
+					<h3>HTML5 Test: <s>58/500</s> 243/500</h3>
 					<div class="progress progress-success">
-					  <div class="bar" style="width: 11.6%"></div>
+					  <div class="bar" style="width: 48.6%"></div>
 					</div>
-					<p>As of July 2012. Source: <a href="http://html5test.com">html5test.com</a></p>
+					<p>As of <s>July 2012</s> December 2012. Source: <a href="http://html5test.com">html5test.com</a></p>
 				</div>
 				
 				<div class="span6 well">
-					<h3>CSS3 Test: 32%</h3>
+					<h3>CSS3 Test: <s>32%</s> 55%</h3>
 					<div class="progress progress-success">
-					  <div class="bar" style="width: 32%"></div>
+					  <div class="bar" style="width: 55%"></div>
 					</div>
-					<p>As of July 2012. Source: <a href="http://css3test.com">css3test.com</a></p>
+					<p>As of <s>July 2012</s> December 2012. Source: <a href="http://css3test.com">css3test.com</a></p>
 				</div>
 				
 			</div>
 			
 			<h2 class="page-header">Support Details</h2>
+			
+			<p class="alert">These details may not be accurate. The browser has been updated and I need to run the test again.</p>
 			
 			<aside><p>Source: <a href="http://supportdetails.com/">Support Details by Imulus</a></p></aside>
 			
@@ -119,6 +121,8 @@
 			</figure>
 		
 			<h2 class="page-header">Tests</h2>
+			
+			<p class="alert">These details may not be accurate. The browser has been updated and I need to run the test again.</p>
 			
 			<h3>Media query tests</h3>
 			

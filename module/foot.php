@@ -1,7 +1,7 @@
 <footer class="footer">
 	<div class="container">
 		<p><small>This content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>. <a href="https://github.com/maban/console-browsers">Please help me build upon it and make it better</a>.</small></p>
-		<p><small>The <a href="">EU cookie law</a> requires me to mention that this site uses Google Analytics which uses cookies. You can still use the site with cookies disabled though.</small></p>
+		<p><small>The EU cookie law requires me to mention that this site uses Google Analytics which uses cookies. You can still use the site with cookies disabled though.</small></p>
 	</div>
 </footer>
 </body>
