@@ -57,7 +57,7 @@
 					<div class="progress progress-success">
 					  <div class="bar" style="width: 55%"></div>
 					</div>
-					<p>As of <s>July 2012</s> December 2012. Source: <a href="http://css3test.com">css3test.com</a></p>
+					<p>As of <s>July 2012</s> December 2013. Source: <a href="http://css3test.com">css3test.com</a></p>
 				</div>
 				
 			</div>

@@ -62,6 +62,49 @@
 			
 			</div>
 			
+			<h2 class="page-header">Support Details</h2>
+			
+			<aside><p>Source: <a href="http://supportdetails.com/">Support Details by Imulus</a>, March 2013</p></aside>
+			
+			<table class="table table-striped">
+				<tr>
+					<th>Operating System</th>
+					<td>unknown unknown</td>
+				</tr>
+				<tr>
+					<th>Screen Resolution</th>
+					<td>854 x 480</td>
+				</tr>
+				<tr>
+					<th>Web Browser</th>
+					<td>Safari -- <span class="note">Actually NetFront</span></td>
+				</tr>
+				<tr>
+					<th>Browser Size</th>
+					<td>980 x 514</td>
+				</tr>
+				<tr>
+					<th>Color Depth</th>
+					<td>32</td>
+				</tr>
+				<tr>
+					<th>Javascript</th>
+					<td>Enabled</td>
+				</tr>
+				<tr>
+					<th>Flash Version</th>
+					<td>Not Installed</td>
+				</tr>
+				<tr>
+					<th>Cookies</th>
+					<td>Enabled</td>
+				</tr>
+				<tr>
+					<th>User Agent</th>
+					<td><code>Mozilla/5.0 (Nintendo WiiU) AppleWebKit/534.52 (KHTML, like Gecko) NX/2.1.0.8.23 NintendoBrowser/1.1.0.7579.EU</code></td>
+				</tr>
+			</table>
+			
 			<h2 class="page-header">Inputs</h2>
 		
 			<figure>
