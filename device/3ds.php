@@ -16,6 +16,8 @@
 		
 			<h1 class="page-header">Nintendo 3DS</h1>
 			
+			<p class="alert alert-info">Many thanks to <a href="http://shaundunne.com">Shaun Dunne</a> for doing the research for this console browser.</p>
+			
 			<p class="lead browser browser-webkit">Identifies itself as Mozilla 5.0, but is actually a Webkit version of NetFront.</p>
 		
 			<div class="row-fluid">
@@ -168,11 +170,11 @@
 				<li>Reported DPR is 1.</li>
 			</ul>
 			
-			<h2 class="page-header">Photos</h2>
+			<?php/*<h2 class="page-header">Photos</h2>
 			
 			<div class="thumbnails flickr">
 				
-			</div>
+			</div>*/?>
 			
 		</div><!-- .span9 -->
 	
