@@ -129,6 +129,10 @@
 			<p>Clicking links is fiddly. Doesn't seem to invoke a hover state. Couldn't find a way to do text selection. Drag and drop tests worked (obviously no multitouch).</p>
 		
 			<p>Remote vibrates when it hovers over a link. Pressing <span class="console-btn console-btn-wii-circle">-</span> and <span class="console-btn console-btn-wii-circle">+</span> buttons zooms.</p>
+			
+			<h3>Wii Balance Board</h3>
+			
+			<p>Yep, you can <a href="http://edutechwiki.unige.ch/en/Nintendo_Wii_balance_board">surf the web on a Wii balance board</a>.</p>
 		
 			<h3>Other input devices</h3>
 		
