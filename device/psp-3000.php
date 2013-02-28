@@ -15,6 +15,8 @@
 		<div class="span9">
 
 			<h1 class="page-header">Sony PSP-3000</h1>
+			
+			<p class="alert alert-info">Many thanks to <a href="http://pazguille.me/">Guillote Paz</a> for doing the research for this console browser.</p>
 
 			<p class="lead browser browser-unknown">Identifies itself as Netscape 4.0, but is actually a version of NetFront.</p>
 
