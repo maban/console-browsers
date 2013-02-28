@@ -28,9 +28,13 @@
 				
 				<div class="span6">
 					
-					<p>Released on November 18th 2013 in the US, November 30th in the UK. First mainstream second screen device.</p>
-				
-					<p>Scores 100% in the <a href="http://acid3.acidtests.org/">Acid 3 test</a>.</p>
+					<p>Released on November 18th 2013 in the US, November 30th in the UK. First mainstream second screen device. Nintendo's fifth attempt at a console browser.</p>
+					
+					<p>Consists of the TV console, and a wireless controller called a gamepad. The gamepad has a resistive touchscreen on the front. It comes with a stylus.</p>
+					
+					<p>Has 2GB of memory on board – 1GB dedicated to games, 1GB to the system.</p>
+					
+					<p>Up to 6 tabs can be open at once.</p>
 					
 					<p>The gamepad can be used as a remote control for the TV.</p>
 				
@@ -44,20 +48,31 @@
 			
 			<div class="row-fluid">
 			
-				<div class="span6 well">
+				<div class="span4 well">
 					<h3>HTML5 Test: 258/500</h3>
 					<div class="progress progress-success">
 					  <div class="bar" style="width: 51.6%"></div>
 					</div>
-					<p>As of December 2012. Source: <a href="http://html5test.com">html5test.com</a></p>
+					<p>As of December 2012.</p>
+					<p>Source: <a href="http://html5test.com">html5test.com</a></p>
 				</div>
 				
-				<div class="span6 well">
+				<div class="span4 well">
 					<h3>CSS3 Test: 48%</h3>
 					<div class="progress progress-success">
 					  <div class="bar" style="width: 48%"></div>
 					</div>
-					<p>As of December 2012. Source: <a href="http://css3test.com">css3test.com</a></p>
+					<p>As of December 2012.</p>
+					<p>Source: <a href="http://css3test.com">css3test.com</a></p>
+				</div>
+				
+				<div class="span4 well">
+					<h3>Acid3 Test: 100%</h3>
+					<div class="progress progress-success">
+					  <div class="bar" style="width: 100%"></div>
+					</div>
+					<p>As of December 2012.</p>
+					<p>Source: <a href="http://acid3.acidtests.org/">acid3.acidtests.org</a></p>
 				</div>
 			
 			</div>
@@ -118,9 +133,7 @@
 		
 			<h3>Primary Controller</h3>
 		
-			<p><a href="http://en.wikipedia.org/wiki/Wii_U_GamePad">Wii U Gamepad</a>, the main controller for the Wii U. Has motion sensing capabilities, a touchscreen, microphone, gyroscope, accelerometer and magnetometer.</p>
-			
-			
+			<p><a href="http://en.wikipedia.org/wiki/Wii_U_GamePad">Wii U Gamepad</a>, the main controller for the Wii U. Has a headphone port and speakers. Has motion sensing capabilities, a touchscreen, microphone, gyroscope, accelerometer and magnetometer.</p>
 			
 			<h2 class="page-header">Photos</h2>
 							

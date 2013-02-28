@@ -55,7 +55,7 @@
 				<div class="span6 well">
 					<h3>CSS3 Test: Test wouldn't run</h3>
 					<div class="progress progress-success">
-					  <div class="bar" style="width: 42%"></div>
+					  <div class="bar" style="width: 0%"></div>
 					</div>
 					<p>As of July 2012. Source: <a href="http://css3test.com">css3test.com</a></p>
 				</div>
