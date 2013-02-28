@@ -8,7 +8,7 @@
 	<li class="nav-header">Portable Consoles</li>
 		<li><a href="/device/psp-1000.php">Sony PSP-1000</a></li>
 		<li class="inactive">Sony PSP-2000 (untested)</li>
-		<li class="inactive">Sony PSP-3000 (untested)</li>
+		<li><a href="/device/psp-3000.php">Sony PSP-3000</a></li>
 		<li class="inactive">Sony PSP Go (untested)</li>
 		<li><a href="/device/psvita.php">Sony PS Vita</a></li>
 		<li><a href="/device/ds.php">Nintendo DS</a></li>
