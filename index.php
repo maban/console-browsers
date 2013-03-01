@@ -65,14 +65,14 @@
 			</li>
 
 			<li class="span3 well">
-				<h4 class="title">PSP-2000 (untested)</h4>
-			</li>
-
-			<li class="span3 well">
 				<a href="device/psp-3000.php">
 					<h4 class="title">PSP-3000</h4>
 					<img src="image/psp-3000-controller.png" alt="Picture of the PSP-3000" />
 				</a>
+			</li>
+			
+			<li class="span3 well">
+				<h4 class="title">PSP-2000 (untested)</h4>
 			</li>
 
 			<li class="span3 well">
