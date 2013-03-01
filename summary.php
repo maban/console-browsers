@@ -134,32 +134,6 @@
 		
 		<ul class="device-thumbnails unstyled">	
 		
-			<li class="row-fluid">
-				<div class="span3">
-					<a href="device/psp-1000.php">
-						<h4 class="title">PSP-1000</h4>
-						<p>Unknown browser. Reports itself as Mozilla.</p>
-						<img src="image/psp-1000-controller.png" alt="Picture of the PSP-1000" />
-					</a>
-				</div>
-				<div class="span3">
-					<h5>HTML5 Test:</h5>
-					<p>Wouldn't run</p>
-					<div class="progress progress-success">
-				  		<div class="bar" style="width: 0%"></div>
-					</div>
-					<p>As of -. Source: <a href="http://html5test.com">html5test.com</a></p>
-				</div>
-				<div class="span3">
-					<h5>CSS3 Test:</h5>
-					<p>Wouldn't run</p>
-					<div class="progress progress-success">
-					  <div class="bar" style="width: 0%"></div>
-					</div>
-					<p>As of -. Source: <a href="http://css3test.com">css3test.com</a></p>
-				</div>
-			</li>
-			
 			<li class="row-fluid">			
 				<div class="span3">
 					<a href="device/psvita.php">
@@ -188,13 +162,59 @@
 			
 			<li class="row-fluid">
 				<div class="span3">
-					<h4 class="">PSP-2000 (untested)</h4>
+					<a href="device/psp-3000.php">
+						<h4 class="title">PSP-3000</h4>
+						<p>Identifies itself as Netscape 4.0, but is actually a version of NetFront.</p>
+						<img src="image/psp-3000-controller.png" alt="Picture of the PSP-3000" />
+					</a>
+				</div>
+				<div class="span3">
+					<h4>HTML5 Test:</h4>
+					<p>Wouldn't run</p>
+					<div class="progress progress-success">
+					  <div class="bar"></div>
+					</div>
+					<p>As of February 2013. Source: <a href="http://html5test.com">html5test.com</a></p>
+				</div>
+				<div class="span3">
+					<h4>CSS3 Test:</h4>
+					<p>Wouldn't run</p>
+					<div class="progress progress-success">
+					  <div class="bar"></div>
+					</div>
+					<p>As of February 2013. Source: <a href="http://css3test.com">css3test.com</a></p>
 				</div>
 			</li>
 			
 			<li class="row-fluid">
 				<div class="span3">
-					<h4 class="">PSP-3000 (untested)</h4>
+					<a href="device/psp-1000.php">
+						<h4 class="title">PSP-1000</h4>
+						<p>Unknown browser. Reports itself as Mozilla.</p>
+						<img src="image/psp-1000-controller.png" alt="Picture of the PSP-1000" />
+					</a>
+				</div>
+				<div class="span3">
+					<h5>HTML5 Test:</h5>
+					<p>Wouldn't run</p>
+					<div class="progress progress-success">
+				  		<div class="bar" style="width: 0%"></div>
+					</div>
+					<p>As of -. Source: <a href="http://html5test.com">html5test.com</a></p>
+				</div>
+				<div class="span3">
+					<h5>CSS3 Test:</h5>
+					<p>Wouldn't run</p>
+					<div class="progress progress-success">
+					  <div class="bar" style="width: 0%"></div>
+					</div>
+					<p>As of -. Source: <a href="http://css3test.com">css3test.com</a></p>
+				</div>
+			</li>
+			
+			<li class="row-fluid">
+				<div class="span3">
+					<h4 class="">PSP 2000 (untested)</h4>
 				</div>
 			</li>
 			

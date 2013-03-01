@@ -22,7 +22,9 @@
 			
 			<h2>Presentations</h2>
 			<ul>
-				<li><a class="description" href="https://speakerdeck.com/anna/exploring-the-game-console-browser-landscape"><strong>Exploring the game console browser landscape</strong></a>
+				<li><a class="description" href="https://speakerdeck.com/anna/playing-with-game-console-browsers"><strong>Playing with Game Console Browsers</strong></a>, Responsive Day Out 2013
+				</li>
+				<li><a class="description" href="https://speakerdeck.com/anna/exploring-the-game-console-browser-landscape"><strong>Exploring the game console browser landscape</strong></a>, Full Frontal 2012
 				</li>
 			</ul>
 			
