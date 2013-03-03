@@ -6079,3 +6079,9 @@ a.badge:hover {
 	display: block;
 	margin: 0 auto;
 }
+
+
+.device-thumbnails li {
+	border-bottom: 1px solid #eeeeee;
+	padding-bottom: 0.7em;
+	}

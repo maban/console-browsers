@@ -46,7 +46,7 @@
 			
 				<div class="span6 well">
 					<h3>HTML5 Test: Test wouldn't run</h3>
-					<div class="progress progress-success">
+					<div class="progress progress-danger">
 					  <div class="bar"></div>
 					</div>
 					<p>As of October 2012. Source: <a href="http://html5test.com">html5test.com</a></p>
@@ -54,7 +54,7 @@
 				
 				<div class="span6 well">
 					<h3>CSS3 Test: Test wouldn't run</h3>
-					<div class="progress progress-success">
+					<div class="progress progress-info">
 					  <div class="bar"></div>
 					</div>
 					<p>As of October 2012. Source: <a href="http://css3test.com">css3test.com</a></p>

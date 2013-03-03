@@ -60,16 +60,16 @@
 			
 				<div class="span4 well">
 					<h3>HTML5 Test: 120/500</h3>
-					<div class="progress progress-success">
+					<div class="progress progress-danger">
 					  <div class="bar" style="width: 24%"></div>
 					</div>
 					<p>As of February 2013. Source: <a href="http://html5test.com">html5test.com</a></p>
 				</div>
 				
 				<div class="span4 well">
-					<h3>CSS3 Test: <s>32%</s> 33%</h3>
-					<div class="progress progress-success">
-					  <div class="bar" style="width: 32%"></div>
+					<h3>CSS3 Test: 33%</h3>
+					<div class="progress progress-info">
+					  <div class="bar" style="width: 33%"></div>
 					</div>
 					<p>As of February 2013. Source: <a href="http://css3test.com">css3test.com</a></p>
 				</div>

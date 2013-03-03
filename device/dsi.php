@@ -54,20 +54,29 @@
 			
 			<div class="row-fluid">
 			
-				<div class="span6 well">
+				<div class="span4 well">
 					<h3>HTML5 Test: 89/500</h3>
-					<div class="progress progress-success">
+					<div class="progress progress-danger">
 					  <div class="bar" style="width: 17.8%"></div>
 					</div>
 					<p>As of July 2012. Source: <a href="http://html5test.com">html5test.com</a></p>
 				</div>
 				
-				<div class="span6 well">
+				<div class="span4 well">
 					<h3>CSS3 Test: Failed to run</h3>
-					<div class="progress progress-success">
+					<div class="progress progress-info">
 					  <div class="bar"></div>
 					</div>
 					<p>As of July 2012. Source: <a href="http://css3test.com">css3test.com</a></p>
+				</div>
+				
+				<div class="span4 well">
+					<h3>Acid3 Test: 60%</h3>
+					<div class="progress progress-success">
+					  <div class="bar" style="width: 60%"></div>
+					</div>
+					<p>As of March 2013.</p>
+					<p>Source: <a href="http://acid3.acidtests.org/">acid3.acidtests.org</a></p>
 				</div>
 			
 			</div>
