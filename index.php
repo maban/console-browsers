@@ -46,7 +46,7 @@
 					  <div class="bar" style="width: 100%"></div>
 					</div>
 					<p>As of December 2012.</p>
-					<p>Source: <a href="http://css3test.com">css3test.com</a></p>
+					<p>Source: <a href="http://acid3.acidtests.org">acid3.acidtests.org</a></p>
 				</div>
 			</li>
 			
