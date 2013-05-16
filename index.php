@@ -14,7 +14,7 @@
 		
 			<li class="row-fluid">
 				<div class="span3 well">
-				<a href="device/wiiu.php">
+				<a href="device/wiiu">
 					<h3>Wii U</h3>
 					<p><img src="image/wiiu-controller.png" alt="Picture of the Wii U controller" /></p>
 					<p>Browser is a WebKit version of NetFront</p>
@@ -27,7 +27,7 @@
 					<div class="progress progress-danger">
 				  		<div class="bar" style="width: 51.6%"></div>
 					</div>
-					<p>As of December 2012.</p>
+					<p>Tested December 2012.</p>
 					<p>Source: <a href="http://html5test.com">html5test.com</a></p>
 				</div>
 				<div class="span3">
@@ -36,7 +36,7 @@
 					<div class="progress progress-info">
 					  <div class="bar" style="width: 48%"></div>
 					</div>
-					<p>As of December 2012.</p>
+					<p>Tested December 2012.</p>
 					<p>Source: <a href="http://css3test.com">css3test.com</a></p>
 				</div>
 				<div class="span3">
@@ -45,14 +45,14 @@
 					<div class="progress progress-success">
 					  <div class="bar" style="width: 100%"></div>
 					</div>
-					<p>As of December 2012.</p>
+					<p>Tested December 2012.</p>
 					<p>Source: <a href="http://acid3.acidtests.org">acid3.acidtests.org</a></p>
 				</div>
 			</li>
 			
 			<li class="row-fluid">
 				<div class="span3 well">
-				<a href="device/xbox360.php">
+				<a href="device/xbox360">
 					<h3>Xbox 360</h3>
 					<p><img src="image/xbox360-controller.png" alt="Picture of the Xbox 360 controller" /></p>
 					<p>Runs IE9.</p>
@@ -65,7 +65,7 @@
 					<div class="progress progress-danger">
 				  		<div class="bar" style="width: 24%"></div>
 					</div>
-					<p>As of February 2013.</p>
+					<p>Tested February 2013.</p>
 					<p>Source: <a href="http://html5test.com">html5test.com</a></p>
 				</div>
 				<div class="span3">
@@ -74,7 +74,7 @@
 					<div class="progress progress-info">
 					  <div class="bar" style="width: 33%"></div>
 					</div>
-					<p>As of February 2013.</p>
+					<p>Tested February 2013.</p>
 					<p>Source: <a href="http://css3test.com">css3test.com</a></p>
 				</div>
 				<div class="span3">
@@ -83,14 +83,14 @@
 					<div class="progress progress-success">
 					  <div class="bar" style="width: 100%"></div>
 					</div>
-					<p>As of February 2013.</p>
+					<p>Tested February 2013.</p>
 					<p>Source: <a href="http://acid3.acidtests.org/">acid3.acidtests.org</a></p>
 				</div>
 			</li>
 		
 			<li class="row-fluid">
 				<div class="span3 well">
-				<a href="device/ps3.php">
+				<a href="device/ps3">
 					<h3>Sony PS3</h3>
 					<p><img src="image/ps3-controller.png" alt="Picture of the PS3" /></p>
 					<p>Identifies itself as Safari, uses a Webkit-based version of Netfront.</p>
@@ -103,7 +103,7 @@
 					<div class="progress progress-danger">
 				  		<div class="bar" style="width: 13.6%"></div>
 					</div>
-					<p>As of July 2012.</p>
+					<p>Tested July 2012.</p>
 					<p>Source: <a href="http://html5test.com">html5test.com</a></p>
 				</div>
 				<div class="span3">
@@ -112,14 +112,14 @@
 					<div class="progress progress-info">
 					  <div class="bar" style="width: 38%"></div>
 					</div>
-					<p>As of July 2012.</p>
+					<p>Tested July 2012.</p>
 					<p>Source: <a href="http://css3test.com">css3test.com</a></p>
 				</div>
 			</li>
 			
 			<li class="row-fluid">
 				<div class="span3 well">
-				<a href="device/wii.php">
+				<a href="device/wii">
 					<h3>Wii</h3>
 					<p><img src="image/wii-controller.png" alt="Picture of the Wii controller" /></p>
 					<p>Runs an Opera 9 browser.</p>
@@ -132,7 +132,7 @@
 					<div class="progress progress-danger">
 				  		<div class="bar" style="width: 17.8%"></div>
 					</div>
-					<p>As of July 2012.</p>
+					<p>Tested July 2012.</p>
 					<p>Source: <a href="http://html5test.com">html5test.com</a></p>
 				</div>
 				<div class="span3">
@@ -141,7 +141,7 @@
 					<div class="progress progress-info">
 					  <div class="bar" style="width: 0%"></div>
 					</div>
-					<p>As of July 2012.</p>
+					<p>Tested July 2012.</p>
 					<p>Source: <a href="http://css3test.com">css3test.com</a></p>
 				</div>
 			</li>
@@ -157,7 +157,7 @@
 		
 			<li class="row-fluid">
 				<div class="span3 well">
-				<a href="device/3dsxl.php">
+				<a href="device/3dsxl">
 					<h3>Nintendo 3DS XL</h3>
 					<p><img src="image/3dsxl-controller.png" alt="Picture of the 3DS XL" /></p>
 					<p>Identifies itself as Mozilla 5.0, but is actually a Webkit version of NetFront.</p>
@@ -170,16 +170,16 @@
 					<div class="progress progress-danger">
 				  		<div class="bar" style="width: 21.8%"></div>
 					</div>
-					<p>As of March 2013.</p>
+					<p>Tested March 2013.</p>
 					<p>Source: <a href="http://html5test.com">html5test.com</a></p>
 				</div>
 				<div class="span3">
 					<h4>CSS3 Test</h4>
-					<p>42%</p>
+					<s>42%</s> 43%</h3>
 					<div class="progress progress-info">
-					  <div class="bar" style="width: 42%"></div>
+					  <div class="bar" style="width: 43%"></div>
 					</div>
-					<p>As of March 2013.</p>
+					<p>As of <s>March 2013</s> May 2013.</p>
 					<p>Source: <a href="http://css3test.com">css3test.com</a></p>
 				</div>
 				<div class="span3">
@@ -188,14 +188,14 @@
 					<div class="progress progress-success">
 					  <div class="bar" style="width: 92%"></div>
 					</div>
-					<p>As of March 2013.</p>
+					<p>Tested March 2013.</p>
 					<p>Source: <a href="http://acid3.acidtests.org/">acid3.acidtests.org</a></p>
 				</div>
 			</li>
 		
 			<li class="row-fluid">			
 				<div class="span3 well">
-					<a href="device/psvita.php">
+					<a href="device/psvita">
 						<h3>Sony PS Vita</h3>
 						<p><img src="image/psvita-controller.png" alt="Picture of the PS Vita" /></p>
 						<p>browser identifies itself as Silk, which is the Amazon's Kindle Fire browser, but it's actually a Webkit-based version of NetFront.</p>
@@ -204,11 +204,11 @@
 				</div>
 				<div class="span3">
 					<h4>HTML5 Test</h4>
-					<p><s>58/500</s> 243/500</h4>
+					<p><s>58/500</s> <s>243/500</s> 284/500</h4>
 					<div class="progress progress-danger">
-					  <div class="bar" style="width: 48.6%"></div>
+					  <div class="bar" style="width: 56.8%"></div>
 					</div>
-					<p>As of <s>July 2012</s> March 2013.</p>
+					<p>Tested <s>July 2012</s> <s>March 2013</s> May 2013.</p>
 					<p>Source: <a href="http://html5test.com">html5test.com</a></p>
 				</div>
 				
@@ -218,7 +218,7 @@
 					<div class="progress progress-info">
 					  <div class="bar" style="width: 55%"></div>
 					</div>
-					<p>As of <s>July 2012</s> March 2013.</p>
+					<p>Tested <s>July 2012</s> May 2013.</p>
 					<p>Source: <a href="http://css3test.com">css3test.com</a></p>
 				</div>
 				
@@ -228,14 +228,14 @@
 					<div class="progress progress-success">
 					  <div class="bar" style="width: 100%"></div>
 					</div>
-					<p>As of March 2013.</p>
+					<p>Tested May 2013.</p>
 					<p>Source: <a href="http://acid3.acidtests.org/">acid3.acidtests.org</a></p>
 				</div>
 			</li>
 			
 			<li class="row-fluid">
 				<div class="span3 well">
-					<a href="device/xperiaplay.php">
+					<a href="device/xperiaplay">
 						<h3>Xperia Play</h3>
 						<p><img src="image/xperiaplay-controller.png" alt="Picture of the DSi" /></p>
 						<p>Runs a Webkit browser.</p>
@@ -248,7 +248,7 @@
 					<div class="progress progress-danger">
 				  		<div class="bar" style="width: 42.4%"></div>
 					</div>
-					<p>As of July 2012.</p>
+					<p>Tested July 2012.</p>
 					<p>Source: <a href="http://html5test.com">html5test.com</a></p>
 				</div>
 				<div class="span3">
@@ -257,14 +257,14 @@
 					<div class="progress progress-info">
 					  <div class="bar" style="width: 42%"></div>
 					</div>
-					<p>As of July 2012.</p>
+					<p>Tested July 2012.</p>
 					<p>Source: <a href="http://css3test.com">css3test.com</a></p>
 				</div>
 			</li>
 			
 			<li class="row-fluid">
 				<div class="span3 well">
-				<a href="device/3ds.php">
+				<a href="device/3ds">
 					<h3>Nintendo 3DS</h3>
 					<p><img src="image/3dsxl-controller.png" alt="Picture of the 3DS" /></p>
 					<p>Identifies itself as Mozilla 5.0, but is actually a Webkit version of NetFront.</p>
@@ -277,7 +277,7 @@
 					<div class="progress progress-danger">
 				  		<div class="bar" style="width: 21.8%"></div>
 					</div>
-					<p>As of February 2013.</p>
+					<p>Tested February 2013.</p>
 					<p>Source: <a href="http://html5test.com">html5test.com</a></p>
 				</div>
 				<div class="span3">
@@ -286,14 +286,14 @@
 					<div class="progress progress-info">
 					  <div class="bar" style="width: 64%"></div>
 					</div>
-					<p>As of February 2013.</p>
+					<p>Tested February 2013.</p>
 					<p>Source: <a href="http://css3test.com">css3test.com</a></p>
 				</div>
 			</li>
 			
 			<li class="row-fluid">
 				<div class="span3 well">
-				<a href="device/dsi.php">
+				<a href="device/dsi">
 					<h3>Nintendo DSi</h3>
 					<p><img src="image/dsi-controller.png" alt="Picture of the DSi" /></p>
 					<p>Runs an Opera browser.</p>
@@ -306,7 +306,7 @@
 					<div class="progress progress-danger">
 				  		<div class="bar" style="width: 17.8%"></div>
 					</div>
-					<p>As of July 2012.</p>
+					<p>Tested July 2012.</p>
 					<p>Source: <a href="http://html5test.com">html5test.com</a></p>
 				</div>
 				<div class="span3">
@@ -315,7 +315,7 @@
 					<div class="progress progress-info">
 					  <div class="bar" style="width: 0%"></div>
 					</div>
-					<p>As of July 2012.</p>
+					<p>Tested July 2012.</p>
 					<p>Source: <a href="http://css3test.com">css3test.com</a></p>
 				</div>
 				<div class="span3">
@@ -324,14 +324,14 @@
 					<div class="progress progress-success">
 					  <div class="bar" style="width: 60%"></div>
 					</div>
-					<p>As of March 2013.</p>
+					<p>Tested March 2013.</p>
 					<p>Source: <a href="http://acid3.acidtests.org/">acid3.acidtests.org</a></p>
 				</div>
 			</li>
 			
 			<li class="row-fluid">
 				<div class="span3 well">
-					<a href="device/psp-3000.php">
+					<a href="device/psp-3000">
 						<h3>PSP-3000</h3>
 						<p><img src="image/psp-3000-controller.png" alt="Picture of the PSP-3000" /></p>
 						<p>Identifies itself as Netscape 4.0, but is actually a version of NetFront.</p>
@@ -344,7 +344,7 @@
 					<div class="progress progress-danger">
 					  <div class="bar"></div>
 					</div>
-					<p>As of February 2013.</p>
+					<p>Tested February 2013.</p>
 					<p>Source: <a href="http://html5test.com">html5test.com</a></p>
 				</div>
 				<div class="span3">
@@ -353,14 +353,14 @@
 					<div class="progress progress-info">
 					  <div class="bar"></div>
 					</div>
-					<p>As of February 2013.</p>
+					<p>Tested February 2013.</p>
 					<p>Source: <a href="http://css3test.com">css3test.com</a></p>
 				</div>
 			</li>
 			
 			<li class="row-fluid">
 				<div class="span3 well">
-					<a href="device/psp-1000.php">
+					<a href="device/psp-1000">
 						<h3>PSP-1000</h3>
 						<p><img src="image/psp-1000-controller.png" alt="Picture of the PSP-1000" /></p>
 						<p>Unknown browser. Reports itself as Mozilla.</p>
@@ -373,7 +373,7 @@
 					<div class="progress progress-danger">
 				  		<div class="bar" style="width: 0%"></div>
 					</div>
-					<p>As of October 2012.</p>
+					<p>Tested October 2012.</p>
 					<p>Source: <a href="http://html5test.com">html5test.com</a></p>
 				</div>
 				<div class="span3">
@@ -382,14 +382,14 @@
 					<div class="progress progress-info">
 					  <div class="bar" style="width: 0%"></div>
 					</div>
-					<p>As of October 2012.</p>
+					<p>Tested October 2012.</p>
 					<p>Source: <a href="http://css3test.com">css3test.com</a></p>
 				</div>
 			</li>
 			
 			<li class="row-fluid">
 				<div class="span3 well">
-				<a href="device/ds.php">
+				<a href="device/ds">
 					<h3>Nintendo DS</h3>
 					<p><img src="image/ds-controller.png" alt="Picture of the DS" /></p>
 					<p>Runs an Opera browser.</p>
@@ -402,7 +402,7 @@
 					<div class="progress progress-danger">
 				  		<div class="bar" style="width: 0%"></div>
 					</div>
-					<p>As of November 2012.</p>
+					<p>Tested November 2012.</p>
 					<p>Source: <a href="http://html5test.com">html5test.com</a></p>
 				</div>
 				<div class="span3">
@@ -411,7 +411,7 @@
 					<div class="progress progress-info">
 					  <div class="bar" style="width: 0%"></div>
 					</div>
-					<p>As of November 2012.</p>
+					<p>Tested November 2012.</p>
 					<p>Source: <a href="http://css3test.com">css3test.com</a></p>
 				</div>
 			</li>
@@ -456,7 +456,7 @@
 
 			<li class="row-fluid">
 				<div class="span3 well">
-				<a href="device/vizio-costar.php">
+				<a href="device/vizio-costar">
 					<h3>Vizio Co-Star (Google TV)</h3>
 					<p><img src="image/vizio-costar-box.png" alt="Picture of the Vizio Co-Star Box" /></p>
 					<p>Runs Chrome.</p>
@@ -469,7 +469,7 @@
 					<div class="progress progress-danger">
 				  		<div class="bar" style="width: 67.6%"></div>
 					</div>
-					<p>As of December 2012.</p>
+					<p>Tested December 2012.</p>
 					<p>Source: <a href="http://html5test.com">html5test.com</a></p>
 				</div>
 				<div class="span3">
@@ -478,7 +478,7 @@
 					<div class="progress progress-info">
 					  <div class="bar" style="width: 48%"></div>
 					</div>
-					<p>As of December 2012.</p>
+					<p>Tested December 2012.</p>
 					<p>Source: <a href="http://css3test.com">css3test.com</a></p>
 				</div>
 			</li>

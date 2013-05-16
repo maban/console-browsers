@@ -49,11 +49,11 @@
 				</div>
 				
 				<div class="span4 well">
-					<h3>CSS3 Test: 42%</h3>
+					<h3>CSS3 Test: <s>42%</s> 43%</h3>
 					<div class="progress progress-info">
-					  <div class="bar" style="width: 42%"></div>
+					  <div class="bar" style="width: 43%"></div>
 					</div>
-					<p>As of March 2013. Source: <a href="http://css3test.com">css3test.com</a></p>
+					<p>As of <s>March 2013</s> May 2013. Source: <a href="http://css3test.com">css3test.com</a></p>
 				</div>
 				
 				<div class="span4 well">
