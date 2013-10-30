@@ -2,6 +2,7 @@
 	<li class="nav-header">TV Consoles</li>
 		<li><a href="/device/wiiu">Nintendo Wii U</a></li>
 		<li><a href="/device/xbox360">Microsoft Xbox 360</a></li>
+		<li><a href="/device/xboxone">Microsoft Xbox One</a></li>
 		<li><a href="/device/ps3">Sony PS3</a></li>
 		<li><a href="/device/wii">Nintendo Wii</a></li>
 	<li class="divider"></li>
