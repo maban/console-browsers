@@ -16,6 +16,10 @@
 		
 			<h1 class="page-header">Microsoft Xbox One</h1>
 			
+			<p class="alert alert-box alert-warning">These impressions have come from 10 minutes with a developer version of the Xbox One on the Xbox One Tour. Please don't take these as final until the console is released.</p>
+			
+			<p class="alert alert-info">Many thanks to <a href="http://www.steveworkman.com/">Steve Workman</a> for doing the research for this console browser.</p>
+			
 			<p class="lead browser browser-ie">Runs IE10.</p>
 			
 			<div class="row-fluid">
@@ -28,6 +32,8 @@
 				
 				<div class="span6">
 				
+				    
+				
 					<p>There's a cursor on the screen that glows green when it's hovered over a link. Scrolling is much improved over the Xbox 360. You can scroll by going off the bottom edge of the screen (left analogue stick) or by panning down with the right analogue stick. On the screen, there's a little scrollbar that can't be manipulated. I didn't notice any flicker on scrolling.</p>
 					
 					<p>The keyboard has big touch areas. This is good for gesture or for using a device like a Wii-mote, but when you're using the analogue stick on the Xbox controller, this means lots of traversing. It has more helpers than the Xbox 360 browser like a dedicated .com button, but is otherwise very similar.</p>
@@ -36,9 +42,7 @@
 					
 					<aside><p><a href="http://en.wikipedia.org/wiki/Xbox_One">More about the Xbox One on Wikipedia</a></p></aside>
 					
-					<div class="alert alert-box alert-warning">
-						<p>These impressions have come from 10 minutes with a developer version of the Xbox One on the Xbox One Tour. Please don't take these as final until the console is released.</p>
-					</div>
+					
 				
 				</div>
 			
