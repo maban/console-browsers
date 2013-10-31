@@ -14,6 +14,44 @@
 		
 			<li class="row-fluid">
 				<div class="span3 well">
+				<a href="device/xboxone">
+					<h3>Xbox One</h3>
+					<p><img src="image/xboxone-controller.jpg" alt="Picture of the Xbox One controller" /></p>
+					<p>Runs IE10.</p>
+					<p class="btn">More details</p>
+				</a>
+				</div>
+				<div class="span3">
+					<h4>HTML5 Test</h4>
+					<p>342/555</p>
+					<div class="progress progress-danger">
+				  		<div class="bar" style="width: 61%"></div>
+					</div>
+					<p>Tested November 2013.</p>
+					<p>Source: <a href="http://html5test.com">html5test.com</a></p>
+				</div>
+				<div class="span3">
+					<h4>CSS3 Test</h4>
+					<p>??</p>
+					<div class="progress progress-info">
+					  <div class="bar" style="width: 0"></div>
+					</div>
+					<p>Tested November 2013.</p>
+					<p>Source: <a href="http://css3test.com">css3test.com</a></p>
+				</div>
+				<div class="span3">
+					<h4>Acid3 Test</h4>
+					<p>100%</p>
+					<div class="progress progress-success">
+					  <div class="bar" style="width: 100%"></div>
+					</div>
+					<p>Tested November 2013.</p>
+					<p>Source: <a href="http://acid3.acidtests.org/">acid3.acidtests.org</a></p>
+				</div>
+			</li>
+
+			<li class="row-fluid">
+				<div class="span3 well">
 				<a href="device/wiiu">
 					<h3>Wii U</h3>
 					<p><img src="image/wiiu-controller.png" alt="Picture of the Wii U controller" /></p>
