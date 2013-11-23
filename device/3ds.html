@@ -1,0 +1,116 @@
+---
+layout: device
+title: Nintendo 3DS
+attribution: Many thanks to <a href="http://shaundunne.com">Shaun Dunne</a> for doing the research for this console browser.
+browser: Identifies itself as Mozilla 5.0, but is actually a Webkit version of NetFront.
+wikipedia-link: http://en.wikipedia.org/wiki/Nintendo_3DS
+date: 31/10/2013
+score-html5: 109/500
+score-html5-percent: 21.8%
+score-css3-percent: 64
+score-acid3:
+image: 3dsxl-controller.png
+---
+
+Features three cameras: two on the back for taking 3D photos and video and one forward-facing one on the front.
+
+3D images cannot be viewed within the browser: they need to be downloaded first. They are saved in MPO format which is 2 JPEGs layered on top of each other, which falls back to a single JPEG where 3D images aren't supported.
+
+<h2 class="page-header">Support Details</h2>
+
+<aside><p>Source: <a href="http://supportdetails.com/">Support Details by Imulus</a>, February 2013</p></aside>
+
+<table class="table table-striped">
+	<tr>
+		<th>Operating System</th>
+		<td>unknown</td>
+	</tr>
+	<tr>
+		<th>Screen Resolution</th>
+		<td>320 x 240</td>
+	</tr>
+	<tr>
+		<th>Web Browser</th>
+		<td>unknown <span class="muted">Actually NetFront</span></td>
+	</tr>
+	<tr>
+		<th>Browser Size</th>
+		<td>320 x 369</td>
+	</tr>
+	<tr>
+		<th>Color Depth</th>
+		<td>16</td>
+	</tr>
+	<tr>
+		<th>Javascript</th>
+		<td>Enabled</td>
+	</tr>
+	<tr>
+		<th>Flash Version</th>
+		<td>Not Installed</td>
+	</tr>
+	<tr>
+		<th>Cookies</th>
+		<td>Enabled</td>
+	</tr>
+	<tr>
+		<th>User Agent</th>
+		<td><code>Mozilla/5.0 (Nintendo 3DS; U; ; en) Version/1.7498.EU</code></td>
+	</tr>
+</table>
+
+<h2 class="page-header">Tests</h2>
+
+<h3>Media query tests</h3>
+
+<aside><p>Source: <a href="http://www.jordanm.co.uk/palmreader">Palm Reader</a></p></aside>
+
+<div class="row-fluid">
+	<div class="span4">
+		<h4>What the device can read:</h4>
+		<ul>
+			<li><code>screen</code></li>
+			<li><code>color</code></li>
+			<li><code>(orientation : portrait)</code></li>
+			<li><code>(min-device-width)</code></li>
+			<li><code>(max-device-width)</code></li>
+			<li><code>(min-device-heigh)</code></li>
+			<li><code>(max-device-height)</code></li>
+			<li><code>(min-width)</code></li>
+			<li><code>(max-width)</code></li>
+			<li><code>(min-height)</code></li>
+			<li><code>(max-height)</code></li>
+		</ul>
+	</div>
+	<div class="span4">
+		<h4>What the device says it isn't:</h4>
+		<ul>
+			<li><code>print</code></li>
+			<li><code>tv</code></li>
+			<li><code>monochrome</code></li>
+			<li><code>handheld</code></li>
+			<li><code>projection</code></li>
+			<li><code>(-webkit-min-device-pixel-ratio: 2)</code></li>
+		</ul>
+	</div>
+	<div class="span4">
+		<h4>Device doesn't recognise:</h4>
+		<ul>
+			<li><code>(pointer:coarse)</code></li>
+			<li><code>(pointer:fine)</code></li>
+			<li><code>(pointer:none)</code></li>
+		</ul>
+	</div>
+</div>
+
+<h3>device-pixel-ratio test</h3>
+
+<aside><p>Source: <a href="http://www.quirksmode.org/m/tests/dpr.html">Quirksmode</a></p></aside>
+
+<ul>
+	<li>Media queries for device-pixel-ratio not supported.</li>
+	<li>screen.width equals 320.</li>
+	<li>Layout viewport width is 320.</li>
+	<li>Expected DPR is 1.</li>
+	<li>Reported DPR is 1.</li>
+</ul>
