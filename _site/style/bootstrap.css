@@ -6087,6 +6087,7 @@ a.badge:hover {
 	}
 
 
-.device-thumbnails .device-home {
+.device-thumbnails .device-home,
+.device-thumbnails .device-resources {
     display: none;
     }
