@@ -1,0 +1,54 @@
+{% include head.html %}
+
+{% include nav-primary.html %}
+
+<section class="container-fluid">
+
+        <h2 class="page-header">{{ page.name }}</h2>
+          
+        <ul class="device-thumbnails unstyled">
+        
+        {% for page in site.pages %}
+        		    
+            <li class="row-fluid device-{{ page.slug }}">
+            	<div class="span3 well">
+            		<a href="{{ page.url }}">
+            			<h4>{{ page.title }}</h4>
+            			<p><img src="device/{{ page.slug }}/{{ page.image }}" alt="Picture of the {{ page.title }} controller"></p>
+            			<p>{{ page.browser }}</p>
+            			<p class="btn">More details</p>
+            		</a>
+            	</div>
+            	<div class="span3">
+            		<h4>HTML5 Test: {{page.score-html5}}</h4>
+            		<div class="progress progress-danger">
+            		  <div class="bar" style="width: {{page.score-html5-percent}}%"></div>
+            		</div>
+            		<p>As of {{page.score-html5-date}}. Source: <a href="http://html5test.com">html5test.com</a></p>
+            	</div>
+            	
+            	<div class="span3">
+            		<h4>CSS3 Test: {{page.score-css3}}</h4>
+            		<div class="progress progress-info">
+            		  <div class="bar" style="width: {{page.score-css3-percent}}%"></div>
+            		</div>
+            		<p>As of {{page.score-css3-date}}. Source: <a href="http://css3test.com">css3test.com</a></p>
+            	</div>
+            	
+            	<div class="span3">
+            		<h4>Acid 3 Test: {{page.score-acid3}}</h4>
+            		<div class="progress progress-success">
+            		  <div class="bar" style="width: {{page.score-acid3-percent}}%"></div>
+            		</div>
+            		<p>As of {{page.score-acid3-date}}. Source: <a href="http://acid3.acidtests.org/">acid3.acidtests.org</a></p>
+            	</div>
+            </li>
+        		
+        {% endfor %}
+        
+        </ul>
+        
+
+</section>
+
+{% include foot.html %}

@@ -2,12 +2,12 @@
 
 {% include nav-primary.html %}
 
+<section class="container-fluid">
 
-<h1>{{ page.name }}</h1>
+    <h1 class="page-header">{{ page.title }}</h1>
+      
+    {{ page.content }}
 
-{% for page in site.pages %}
-  <h3><a href="{{ page.url }}">{{ page.title }}</a></h3>
-  <p>{{ page.content }}</p>
-{% endfor %}
+</section>
 
 {% include foot.html %}

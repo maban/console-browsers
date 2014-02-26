@@ -2,7 +2,7 @@
 
 {% include nav-primary.html %}
 
-<section class="container-fluid">
+<div class="container-fluid">
 	
 	<div class="row-fluid">
 		
@@ -10,56 +10,54 @@
             {% include nav-secondary.html %}
         </div>
         
-        <div class="span9">
+        <div class="span9" role="main">
         	<h1 class="page-header">{{ page.title }}</h1>
-        	<p class="alert alert-info">{{ page.attribution }}</p>
-        	<p class="lead browser browser-webkit">{{ page.browser }}</p>
-
-        	<div class="row-fluid">
-        		<div class="span6">
-        			<p>Image coming shortly.</p>
-        		
-        			<img src="../image/{{ page.image }}" alt="{{ page.title }} controller" />
-        						
-        		</div>
-        		
-        		<div class="span6">
-        		    <p class="muted">Last updated: {{ page.date | date_to_long_string }}</p>
-        			{{ page.content }}
-        			
-        			
-        			<aside><p><a href="{{ page.wikipedia-link }}">More about the {{ page.title }} on Wikipedia</a></p></aside>
-        		
-        		</div>
-        	
+        	<p class="muted">Last updated: {{ page.date | date_to_long_string }}</p>
+        	{% if page.attribution %}<p class="alert alert-info">{{ page.attribution }}</p>{% endif %}
+        	<p class="lead browser browser-webkit">{{ page.browser }}</p>           
+            
+            <div class="row-fluid">
+        		<img src="{{ page.image }}" alt="{{ page.title }} controller" />
         	</div>
         	
         	<div class="row-fluid">
         	
-        		<div class="span6 well">
-        			<h3>HTML5 Test: {{score-html5}}</h3>
+        		<div class="span4 well">
+        			<h3>HTML5 Test: {{page.score-html5}}</h3>
         			<div class="progress progress-danger">
-        			  <div class="bar" style="width: {{score-html5-percent}}"></div>
+        			  <div class="bar" style="width: {{page.score-html5-percent}}%"></div>
         			</div>
-        			<p>As of February 2013. Source: <a href="http://html5test.com">html5test.com</a></p>
+        			<p>As of {{page.score-html5-date}}. Source: <a href="http://html5test.com">html5test.com</a></p>
         		</div>
         		
-        		<div class="span6 well">
-        			<h3>CSS3 Test: {{score-css3}}%</h3>
+        		<div class="span4 well">
+        			<h3>CSS3 Test: {{page.score-css3}}</h3>
         			<div class="progress progress-info">
-        			  <div class="bar" style="width: {{score-css3}}%"></div>
+        			  <div class="bar" style="width: {{page.score-css3-percent}}%"></div>
         			</div>
-        			<p>As of February 2013. Source: <a href="http://css3test.com">css3test.com</a></p>
+        			<p>As of {{page.score-css3-date}}. Source: <a href="http://css3test.com">css3test.com</a></p>
+        		</div>
+        		
+        		<div class="span4 well">
+        			<h3>Acid 3 Test: {{page.score-acid3}}</h3>
+        			<div class="progress progress-success">
+        			  <div class="bar" style="width: {{page.score-acid3-percent}}%"></div>
+        			</div>
+        			<p>As of {{page.score-acid3-date}}. Source: <a href="http://acid3.acidtests.org/">acid3.acidtests.org</a></p>
         		</div>
         	
         	</div>
         	
+        	<div class="row-fluid">
+        		    
+                {{ page.content }}
         	
+        	</div>
         	
 		</div><!-- .span9 -->
 	
 	</div><!-- .row-fluid -->
 
-</section>
+</div>
 
 {% include foot.html %}
