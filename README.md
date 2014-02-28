@@ -21,6 +21,8 @@ Before testing, please make sure you've installed any system updates to be sure 
 
 If you'd like to update the console browser data with your own, you can either edit the device file using the built-in editor in Github, or clone the repo to your machine. When updating stats, it would really help if you could leave the old stats in, but cross them out using the `s` tag to show how the stats have changed over time.
 
+If you don't want to do that, feel free to submit an issue with the stats in instead so I can make the changes.
+
 #### To edit the file on GitHub
 
 * Navigate to the device's index.html file. For example, if you'd like to edit the data for the Wii, go to `device/wii/index.html`.
