@@ -15,6 +15,30 @@ When running a test such as the HTML5, CSS3 or Acid3 test, leave the page open f
 * [Palm Reader](http://www.jordanm.co.uk/palmreader)
 
 
+### Contribute your data
+
+If you'd like to update the console browser data with your own, you can either edit the device file using the built-in editor in Github, or clone the repo to your machine. When updating stats, it would really help if you could leave the old stats in, but cross them out using the `s` tag to show how the stats have changed over time.
+
+#### To edit the file on GitHub
+
+* Navigate to the device's index.html file. For example, if you'd like to edit the data for the Wii, go to `device/wii/index.html`.
+* Click "Edit"
+* Make your changes
+* Leave a useful commit message explaining what you've done.
+
+#### To edit the files locally on a Mac
+
+The site uses Jekyll for templating, so you'll need to set this up.
+
+* Clone the GitHub repository
+* Open up Terminal and type `gem install jekyll`
+* In Terminal, navigate to where you cloned the site, eg: `cd Sites/console-browser`
+* Once you're in the right folder, type `jekyll serve --watch` in Terminal. This will run Jekyll and watch for changes you make. 
+* To view the site locally, type `http://0.0.0.0:4000/` in your browser's address bar.
+
+A `_site` folder will be generated where all the static files are output. This is ignored in the .gitignore file because GitHub Pages builds the files itself.
+
+
 ### Donate Devices
 
 All of the devices, except the ones I've borrowed like the Wii, Xbox and PS3, live in [Clearleft's test lab](http://clearleft.com/does/test-lab/) which is open for anyone to drop by and use. I've bought most of the consoles on this site, although a couple have been kindly donated.
