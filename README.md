@@ -1,4 +1,4 @@
-console-browsers
+Console Browsers
 ================
 
 A collection of information about the browsers on game consoles. Includes browser stats and descriptions of some of the quirks.
@@ -9,6 +9,8 @@ A collection of information about the browsers on game consoles. Includes browse
 
 When running a test such as the HTML5, CSS3 or Acid3 test, leave the page open for around 5 minutes. This is because it takes so long to load scripts. Often the device will display a score and will have appear to have finished running, but a couple of minutes later, that score changes.
 
+Before testing, please make sure you've installed any system updates to be sure you're testing the latest version of the browser.
+
 * [Support Details](http://supportdetails.com/)
 * [CSS3 Test](http://css3test.com)
 * [HTML5 Test](http://html5test.com)
@@ -18,6 +20,8 @@ When running a test such as the HTML5, CSS3 or Acid3 test, leave the page open f
 ### Contribute your data
 
 If you'd like to update the console browser data with your own, you can either edit the device file using the built-in editor in Github, or clone the repo to your machine. When updating stats, it would really help if you could leave the old stats in, but cross them out using the `s` tag to show how the stats have changed over time.
+
+If you don't want to do that, feel free to submit an issue with the stats in instead so I can make the changes.
 
 #### To edit the file on GitHub
 
