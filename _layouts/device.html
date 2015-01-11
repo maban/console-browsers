@@ -25,7 +25,7 @@
         		<div class="span4 well">
         			<h3>HTML5 Test: {{page.score-html5}}</h3>
         			<div class="progress progress-danger">
-        			  <div class="bar" style="width: {{page.score-html5-percent}}%"></div>
+        			  <div class="bar" style="width: {{page.score-html5-percent}}%" role="progressbar" aria-valuenow="{{page.score-html5-percent}}" aria-valuemin="0" aria-valuemax="100"></div>
         			</div>
         			<p>As of {{page.score-html5-date}}. Source: <a href="http://html5test.com">html5test.com</a></p>
         		</div>
@@ -33,7 +33,7 @@
         		<div class="span4 well">
         			<h3>CSS3 Test: {{page.score-css3}}</h3>
         			<div class="progress progress-info">
-        			  <div class="bar" style="width: {{page.score-css3-percent}}%"></div>
+        			  <div class="bar" style="width: {{page.score-css3-percent}}%" aria-valuenow="{{page.score-css3-percent}}" aria-valuemin="0" aria-valuemax="100"></div>
         			</div>
         			<p>As of {{page.score-css3-date}}. Source: <a href="http://css3test.com">css3test.com</a></p>
         		</div>
@@ -41,7 +41,7 @@
         		<div class="span4 well">
         			<h3>Acid 3 Test: {{page.score-acid3}}</h3>
         			<div class="progress progress-success">
-        			  <div class="bar" style="width: {{page.score-acid3-percent}}%"></div>
+        			  <div class="bar" style="width: {{page.score-acid3-percent}}%" aria-valuenow="{{page.score-acid3-percent}}" aria-valuemin="0" aria-valuemax="100"></div>
         			</div>
         			<p>As of {{page.score-acid3-date}}. Source: <a href="http://acid3.acidtests.org/">acid3.acidtests.org</a></p>
         		</div>
