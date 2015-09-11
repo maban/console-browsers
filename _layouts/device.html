@@ -3,25 +3,27 @@
 {% include nav-primary.html %}
 
 <div class="container-fluid">
-	
+
 	<div class="row-fluid">
-		
+
 		<div class="span3">
             {% include nav-secondary.html %}
         </div>
-        
+
         <div class="span9" role="main">
         	<h1 class="page-header">{{ page.title }}</h1>
         	<p class="muted">Last updated: {{ page.date | date_to_long_string }}</p>
         	{% if page.attribution %}<p class="alert alert-info">{{ page.attribution }}</p>{% endif %}
-        	<p class="lead browser browser-webkit">{{ page.browser }}</p>           
-            
-            <div class="row-fluid">
+        	<p class="lead browser browser-webkit">{{ page.browser }}</p>
+
+					{% if page.image %}
+          <div class="row-fluid">
         		<img src="{{ page.image }}" alt="{{ page.title }} controller" />
         	</div>
-        	
+					{% endif %}
+
         	<div class="row-fluid">
-        	
+
         		<div class="span4 well">
         			<h3>HTML5 Test: {{page.score-html5}}</h3>
         			<div class="progress progress-danger">
@@ -29,7 +31,7 @@
         			</div>
         			<p>As of {{page.score-html5-date}}. Source: <a href="http://html5test.com">html5test.com</a></p>
         		</div>
-        		
+
         		<div class="span4 well">
         			<h3>CSS3 Test: {{page.score-css3}}</h3>
         			<div class="progress progress-info">
@@ -37,7 +39,7 @@
         			</div>
         			<p>As of {{page.score-css3-date}}. Source: <a href="http://css3test.com">css3test.com</a></p>
         		</div>
-        		
+
         		<div class="span4 well">
         			<h3>Acid 3 Test: {{page.score-acid3}}</h3>
         			<div class="progress progress-success">
@@ -45,17 +47,17 @@
         			</div>
         			<p>As of {{page.score-acid3-date}}. Source: <a href="http://acid3.acidtests.org/">acid3.acidtests.org</a></p>
         		</div>
-        	
+
         	</div>
-        	
+
         	<div class="row-fluid">
-        		    
+
                 {{ page.content }}
-        	
+
         	</div>
-        	
+
 		</div><!-- .span9 -->
-	
+
 	</div><!-- .row-fluid -->
 
 </div>
