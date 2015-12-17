@@ -45,6 +45,6 @@ A `_site` folder will be generated where all the static files are output. This i
 
 ### Donate Devices
 
-All of the devices, except the ones I've borrowed like the Wii, Xbox and PS3, live in [Clearleft's test lab](http://clearleft.com/does/test-lab/) which is open for anyone to drop by and use. I've bought most of the consoles on this site, although a couple have been kindly donated.
+All of the devices, except the ones I've borrowed like the Wii, Xbox and PS3, live in [Clearleft's test lab](http://clearleft.com/testlab) which is open for anyone to drop by and use. I've bought most of the consoles on this site, although a couple have been kindly donated.
 
 If you'd like to contribute, or if you already own one of these devices and you don't want it any more, please have a look at my [wishlist of consoles and peripherals I don't yet have in the test lab](http://www.amazon.co.uk/registry/wishlist/1QGHF0I6T29TR). [Post it to Clearleft](http://clearleft.com/canhelp/) to form part of their test lab, and I'll run lots of tests on it and document them on this site. I look for second-hand models with all the cables. I got the PS Vita for a bargain because it had a dead pixel. The DSi was missing the box and the stylus, but it doesn't matter as long as all the buttons and screen work so I can properly test the browser in them.
