@@ -8,14 +8,13 @@
 
     <ul class="cards device-thumbnails unstyled">
 
-      {% assign sorted_devices = (site.device | sort: 'title') %}
+      {% assign sorted_devices = (site.device | sort: 'released' | reverse) %}
       {% for device in sorted_devices %}
       <li class="card device--{{ device.slug }}" style="background-color: #{{device.color}}">
 
         <div class="card__title">
           <h2><a href="device/{{ device.slug }}">{{ device.title }}</a></h2>
           <p>{{ device.browser }}</p>
-          {% if device.released %}<p>{{ device.released }}</p>{% endif %}
           {% if device.type %}<p class="card__label">{{ device.type }}</p>{% endif %}
           {% if device.released %}<p class="card__label card__label--alt">{{ device.released }}</p>{% endif %}
         </div>
