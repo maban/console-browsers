@@ -6,6 +6,7 @@ include:     ['.htaccess']
 exclude:     []
 keep_files:  ['.git','.svn']
 timezone:    nil
+description: Stats on game console browsers
 
 excerpt_separator: "\n\n"
 
@@ -15,3 +16,12 @@ port:        4000
 baseurl:     /
 url:         /console-browsers
 lsi:         false
+
+sass:
+  sass_dir: style/_sass
+  style: compressed
+
+collections:
+  device:
+    output: true
+    permalink: /device/:path

@@ -1,0 +1,105 @@
+.nav-sections {
+    clear: both;
+    width: 100%;
+    @media (min-width: 800px) {
+        clear: none;
+    }
+    ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        @media (min-width: 800px) {
+          justify-content: flex-start;
+        }
+    }
+
+    li {
+        margin: 0;
+        padding: 0;
+        display: flex;
+        border-bottom: 5px solid #424242;
+        min-width: 3em;
+        background-size: 30px;
+        background-repeat: no-repeat;
+        background-position: center center;
+        @media (min-width: 800px) {
+          float: left;
+        }
+    }
+    a {
+        display: block;
+        padding: 15px 15px 10px 15px;
+        color: #fff;
+        border-bottom: 5px solid #424242;
+        width: 100%;
+        &:hover,
+        &:focus,
+        &:active {
+            text-decoration: none;
+            border-bottom: 5px solid #424242;
+        }
+    }
+
+    .section-home {
+      width: 100%;
+      text-align: center;
+      @media (min-width: 500px) {
+        width: auto;
+        text-align: left;
+        flex: 1;
+      }
+        a {
+          text-indent: 0;
+        }
+    }
+
+    .section-home {
+        border-bottom-color: transparent;
+        font-size: 1.5em;
+        line-height: 1;
+    }
+    .section-devices {
+        border-bottom-color: #DDD;
+    }
+    .section-resources {
+        border-bottom-color: #000;
+    }
+
+}
+
+.nav-sections .section-home:hover,
+.nav-sections .section-home:focus,
+.nav-sections .section-home:active,
+.nav-sections .section-home:hover a,
+.nav-sections .section-home:focus a,
+.nav-sections .section-home:active a,
+.section-home.active,
+.section-home.active a {
+    border-color: transparent;
+}
+
+.nav-sections .section-devices:hover,
+.nav-sections .section-devices:focus,
+.nav-sections .section-devices:active,
+.nav-sections .section-devices:hover a,
+.nav-sections .section-devices:focus a,
+.nav-sections .section-devices:active a,
+.section-devices.active,
+.section-devices.active a {
+    border-color: #DDD;
+}
+
+.nav-sections .section-resources:hover,
+.nav-sections .section-resources:focus,
+.nav-sections .section-resources:active,
+.nav-sections .section-resources:hover a,
+.nav-sections .section-resources:focus a,
+.nav-sections .section-resources:active a,
+.section-resources.active,
+.section-resources.active a {
+    border-color: #000;
+}

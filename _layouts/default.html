@@ -1,12 +1,16 @@
 {% include head.html %}
 
-{% include nav-primary.html %}
+<section role="main">
 
-<section class="container-fluid">
+  {% include nav-primary.html %}
 
-    <h1 class="page-header">{{ page.title }}</h1>
-      
+  {% include header.html %}
+
+	<div class="content">
+
     {{ page.content }}
+
+  </div>
 
 </section>
 

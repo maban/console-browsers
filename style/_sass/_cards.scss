@@ -1,0 +1,98 @@
+.cards {
+  background-color: #555;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card {
+  background-color: #E91E63;
+  margin: 0;
+  padding: 2em 0;
+  display: block;
+  clear: both;
+  color: #FFF;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  position: relative;
+
+  justify-content: center;
+  text-align: center;
+  @media (min-width: 500px) {
+    width: 50%;
+  }
+  @media (min-width: 900px) {
+    width: 33.3333%;
+  }
+  @media (min-width: 1300px) {
+    width: 25%;
+  }
+  &:after {
+    content: "";
+    display: block;
+    clear: both;
+  }
+}
+
+.card__title {
+  width: 100%;
+  font-size: 18px;
+  margin: 1em 0 0.75em;
+  padding: 0 0.5em;
+  a,
+  a:link,
+  a:visited,
+  a:hover,
+  a:focus,
+  a:active {
+    color: #fff;
+    text-decoration: none;
+    border-bottom: 4px solid #fff;
+    border-bottom: 4px solid rgba(255,255,255,0.3);
+    &:hover,
+    &:focus,
+    &:active {
+      border-bottom: 4px solid rgba(255,255,255,0.7);
+    }
+  }
+}
+
+.card__image {
+  margin: 0 1em 1em 0;
+  max-width: 50%;
+  padding: 1em 0.5em;
+  height: 10em;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+
+.card__description {
+  padding: 0 1em;
+  width: 100%;
+}
+
+.card__label {
+  background-color: rgba(255,255,255,0.9);
+  display: block;
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  text-transform: uppercase;
+  color: #000;
+  font-size: 13px;
+  padding: 0.2em 0.5em;
+  margin: 0;
+}
+
+.card__label--alt {
+  left: 15px;
+  right: inherit;
+  background-color: rgba(0,0,0,0.5);
+  color: #fff;
+}

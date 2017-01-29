@@ -1,0 +1,16 @@
+<header {% if page.layout == "device" %}class="header header--device" style="background-color: #{{page.color}};"{% else %}class="header"{% endif %}>
+  <h1>{% if page.layout == "home" %}A collection of information about the browsers in game consoles{% else %}{{page.title}}{% endif %}</h1>
+  <h2>{% if page.layout == "home" %}Maintained by <a href="http://maban.co.uk">Anna Debenham</a>{% elsif page.layout == "device" %}{{page.browser}}{% else %}{{page.description}}{% endif %}</h2>
+
+  {% if page.image %}
+  <div class="header__image">
+    <img src="{{ page.image }}" alt="{{ page.title }} controller" />
+  </div>
+  {% endif %}
+
+  {% if page.layout == "device" %}
+  <p>Last updated: {{ page.date | date_to_long_string }}</p>
+  {% if page.attribution %}<p class="alert alert-info">{{ page.attribution }}</p>{% endif %}
+  {% endif %}
+
+</header>

@@ -1,8 +1,22 @@
-<div class="navbar navbar-static-top navbar-inverse">
-    <nav class="navbar-inner" role="navigation">
-        <ul class="nav">
-            <li class='{% if page.layout == "home" %}active{% endif %}'><a href="/">Devices</a></li>
-            <li class='{% if page.layout == "default" %}active{% endif %}'><a href="/resources">Resources</a></li>
-         </ul>
-    </nav>
-</div>
+
+<header class="site-header">
+
+    <div class="wrapper">
+
+      <nav class="nav-sections">
+          <ul>
+              <li class="section-home">
+                  <a href="/">Game Console Browsers</a>
+              </li>
+              <li class='section-devices {% if page.layout == "home" %}active{% endif %}'>
+                <a href="/">Devices</a>
+              </li>
+              <li class='section-resources {% if page.layout == "default" %}active{% endif %}'>
+                <a href="/resources">Resources</a>
+              </li>
+          </ul>
+      </nav>
+
+    </div>
+
+</header>

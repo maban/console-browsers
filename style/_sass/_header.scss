@@ -1,0 +1,47 @@
+.header {
+  padding: 2em 1em;
+  background-color: #ddd;
+  color: #333;
+  text-align: center;
+  a,
+  a:link,
+  a:visited,
+  a:hover,
+  a:focus,
+  a:active {
+    color: #333;
+    text-decoration: none;
+    border-bottom: 2px solid #333;
+    border-bottom: 2px solid rgba(0,0,0,0.3);
+    &:hover,
+    &:focus,
+    &:active {
+      border-bottom: 2px solid rgba(0,0,0,0.7);
+    }
+  }
+}
+
+.header--device {
+  color: #FFF;
+  a,
+  a:link,
+  a:visited,
+  a:hover,
+  a:focus,
+  a:active {
+    color: #FFF;
+    text-decoration: none;
+    border-bottom: 2px solid #FFF;
+    border-bottom: 2px solid rgba(255,255,255,0.3);
+    &:hover,
+    &:focus,
+    &:active {
+      border-bottom: 2px solid rgba(255,255,255,0.7);
+    }
+  }
+}
+
+.header__image {
+  margin: 1em auto;
+  max-width: 20em;
+}

@@ -1,53 +1,60 @@
 {% include head.html %}
 
-{% include nav-primary.html %}
+<section role="main">
 
-<section class="container-fluid" role="main">
+  {% include nav-primary.html %}
 
-        <h1 class="page-header">{{ page.title }}</h1>
+  {% include header.html %}
 
-        <ul class="device-thumbnails unstyled">
+    <ul class="cards device-thumbnails unstyled">
 
-        {% for page in site.pages %}
+      {% assign sorted_devices = (site.device | sort: 'title') %}
+      {% for device in sorted_devices %}
+      <li class="card device--{{ device.slug }}" style="background-color: #{{device.color}}">
 
-            <li class="row-fluid device-{{ page.slug }}">
-            	<div class="span3 well">
-            		<a href="device/{{ page.slug }}">
-            			<h4>{{ page.title }}</h4>
-                  {% if page.image %}
-            			<p><img src="device/{{ page.slug }}/{{ page.image }}" alt="Picture of the {{ page.title }} controller"></p>
-                  {% endif %}
-            			<p>{{ page.browser }}</p>
-            			<span class="btn">More details</span>
-            		</a>
-            	</div>
-            	<div class="span3">
-            		<h4>HTML5 Test: {{page.score-html5}}</h4>
-            		<div class="progress progress-danger">
-            		  <div class="bar" style="width: {{page.score-html5-percent}}%" role="progressbar" aria-valuenow="{{page.score-html5-percent}}" aria-valuemin="0" aria-valuemax="100"></div>
-            		</div>
-            		<p>As of {{page.score-html5-date}}. Source: <a href="http://html5test.com">html5test.com</a></p>
-            	</div>
+        <div class="card__title">
+          <h2><a href="device/{{ device.slug }}">{{ device.title }}</a></h2>
+          <p>{{ device.browser }}</p>
+          {% if device.released %}<p>{{ device.released }}</p>{% endif %}
+          {% if device.type %}<p class="card__label">{{ device.type }}</p>{% endif %}
+          {% if device.released %}<p class="card__label card__label--alt">{{ device.released }}</p>{% endif %}
+        </div>
 
-            	<div class="span3">
-            		<h4>CSS3 Test: {{page.score-css3}}</h4>
-            		<div class="progress progress-info">
-            		  <div class="bar" style="width: {{page.score-css3-percent}}%" role="progressbar" aria-valuenow="{{page.score-css3-percent}}" aria-valuemin="0" aria-valuemax="100"></div>
-            		</div>
-            		<p>As of {{page.score-css3-date}}. Source: <a href="http://css3test.com">css3test.com</a></p>
-            	</div>
 
-            	<div class="span3">
-            		<h4>Acid 3 Test: {{page.score-acid3}}</h4>
-            		<div class="progress progress-success">
-            		  <div class="bar" style="width: {{page.score-acid3-percent}}%" role="progressbar" aria-valuenow="{{page.score-acid3-percent}}" aria-valuemin="0" aria-valuemax="100"></div>
-            		</div>
-            		<p>As of {{page.score-acid3-date}}. Source: <a href="http://acid3.acidtests.org/">acid3.acidtests.org</a></p>
-            	</div>
-            </li>
+  			<div class="card__image">
+          {% if device.image %}
+          <img src="device/{{ device.slug }}/{{ device.image }}" alt="Picture of the {{ device.title }} controller">
+          {% endif %}
+        </div>
 
-        {% endfor %}
-        </ul>
+
+        <div class="card__description">
+
+      		<h3>HTML5 Test: {{device.score-html5}}</h4>
+      		<div class="bar">
+      		  <div class="bar__fill" style="width: {{device.score-html5-percent}}%" role="progressbar" aria-valuenow="{{device.score-html5-percent}}" aria-valuemin="0" aria-valuemax="100"></div>
+      		</div>
+      		<small>As of {{device.score-html5-date}}. Source: <a href="http://html5test.com">html5test.com</a></small>
+
+      		<h3>CSS3 Test: {{device.score-css3}}</h4>
+      		<div class="bar">
+      		  <div class="bar__fill" style="width: {{device.score-css3-percent}}%" role="progressbar" aria-valuenow="{{device.score-css3-percent}}" aria-valuemin="0" aria-valuemax="100"></div>
+      		</div>
+      		<small>As of {{device.score-css3-date}}. Source: <a href="http://css3test.com">css3test.com</a></small>
+
+      		<h3>Acid 3 Test: {{device.score-acid3}}</h4>
+      		<div class="bar">
+      		  <div class="bar__fill" style="width: {{device.score-acid3-percent}}%" role="progressbar" aria-valuenow="{{device.score-acid3-percent}}" aria-valuemin="0" aria-valuemax="100"></div>
+      		</div>
+      		<small>As of {{device.score-acid3-date}}. Source: <a href="http://acid3.acidtests.org/">acid3.acidtests.org</a></small>
+
+        </div>
+
+
+        </li>
+
+    {% endfor %}
+    </ul>
 
 
 
